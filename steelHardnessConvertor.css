@@ -1,0 +1,393 @@
+*,
+::before,
+::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+   text-align: center;
+   background-color: black;
+   height: 100%;   
+   place-items: center;
+   justify-content: center;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    background-color: #e5e5e5;    
+}
+
+.field1 {
+    max-width: 70rem;
+    border-right: 2px solid #111; 
+}
+
+#org {
+    position: relative;
+    width: 10rem;
+    padding-top: 5px;
+    margin-left: 15px;
+    border-bottom: 4px solid lightgray;
+    border-bottom-style: groove;
+    color: lightgray;
+}
+
+header {
+    background: linear-gradient(
+        90deg,
+        #777,
+        #ccc,
+        #777
+      ); 
+    height: 120px;
+}
+
+#heading {
+    font-family: 'Arial Narrow', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 10px;
+    color: darkblue;
+}
+
+.logoOrg {
+    font-family: wester, 'sans-serif';
+    font-style: italic;
+    font-size: 28px;
+    font-weight: 300;
+    padding-right: 5px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
+}
+
+.nameOrg {
+    font-style: italic;
+    font-size: 28px;
+    font-weight: 200;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, .8);
+}
+
+#instruction {
+    width: 90%;
+    text-align: left;
+    margin: 20px 5%;
+}
+
+h4 {
+    margin-top: 10px;
+}
+
+#selectSteelGroup {
+    padding-top: 30px;
+}
+
+.convertorTotal{
+    width: 98%;
+    min-width: 800px;
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
+
+.convertor{
+    width: 94%;
+    margin: 10px 0 5px 0;
+    text-align: left;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.convInfo{
+    width: 94%;
+    text-align: left;
+}
+
+.convertorName {
+    font-size: 20px;
+}
+
+.row1 span {
+    padding-top: 5px;
+}
+
+.row3 span {
+    padding: 1px 0;
+    margin-bottom: 1.5px;
+}
+
+.empty, .chead1 #empty2{
+    border-bottom: solid .5px white;
+}
+.chead1 span{
+    margin-left: 1px;
+    background-color: darkgreen;
+    color: white;
+}
+
+#chead1row1, .row2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 8fr 1fr;
+    text-align: center;       
+}
+
+#chead1row3, .chead1row3, .cvalues{
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);    
+    text-align: center;
+}
+
+.chead2row1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 10fr 1fr;
+    text-align: center;
+}
+
+.chead2row2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 10fr 1fr;
+    text-align: center;
+}
+
+.chead2row3, .cvalues2 {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);    
+    text-align: center;
+}
+
+.chead4row1, .chead4row2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 5fr;
+    text-align: center;
+}
+
+.chead4row3, .cvalues4 {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);    
+    text-align: center;
+}
+
+.chead5row1 {
+    display: grid;
+    grid-template-columns: 2fr 1fr 10fr;
+    text-align: center;
+}
+
+.chead5row2 {
+    display: grid;
+    grid-template-columns: 2fr 1fr 10fr;
+    text-align: center;
+}
+
+.chead5row3, .cvalues5 {
+    display: grid;
+    grid-template-columns: repeat(13, 1fr);    
+    text-align: center;
+}
+
+.chead6row1 {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    text-align: center;
+}
+
+.chead6row2 {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    text-align: center;
+}
+
+.chead6row3, .cvalues6 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);    
+    text-align: center;
+}
+
+#chead1row1, #chead1row2, .chead1row2, .chead5row1, .a1 {
+    font-size: 14px;
+}
+
+.cvalues div, .cvalues2 div, .cvalues4 div, .cvalues5 div, .cvalues6 div {
+   margin: 1px;
+    font-size: 10px;
+}
+
+input {
+    background-color: #777;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+    width: 100%;
+}
+
+input:hover {
+    background-color: #555;
+}
+
+.notes{
+    display: grid;
+    grid-template-columns: 1fr 18fr;
+}
+
+.note {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 5px;
+    text-align: left;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#copyright {
+    width: 93%;
+    color: #555;
+    padding: 10px;
+}
+
+#footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: linear-gradient(
+        90deg,
+        #777,
+        #ccc,
+        #777
+      ); 
+    padding: 5px 5%;
+    margin-top: 50px;
+}
+
+#orgF{
+    margin: auto auto auto 0px;    
+    color: lightgray;
+}
+
+#email{
+    font-size: 22px;
+    margin: auto 0px auto auto;
+    /*margin-right: 0px;*/
+    color: #eee;
+}
+
+.field2{
+    display: none;
+}
+
+.standardsAndLinks{
+    padding: 10px;
+    color: darkgreen;
+}
+
+h4{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.usefullLinks{
+    padding-top: 5px;
+}
+
+.hard-testing-methods{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 5px 20px;
+    text-decoration: none;
+}
+
+.hard-testing-methods:hover{
+    color: darkblue;
+    font-weight: 900;
+    background-color: white;
+}
+
+.field2Header{
+    padding: 10px 0;
+    color: darkblue;
+}
+
+.producer{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    background-color: #9ab;
+}
+
+.producerLink{
+    padding: 10px;    
+    font-size: 22px;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.producerInfo {
+    color: black;
+    font-size: 16px;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.producerLink:hover {
+    background-color: #559;
+    color: white;
+}
+
+.producerImages{
+    display: block;
+    align-content: normal;
+}
+
+.producerImages img{
+    margin: 10px;
+}
+
+.whiteBack {
+    background-color: white;
+    margin: 10px;
+}
+
+.ads2{
+   margin-top: 20px;
+}
+
+#visits {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    background-color: #eee;
+    color: #aaa;
+}
+
+@media(min-width: 1300px) {
+    .field2{
+        display: block;
+        max-width: 500px;
+        flex-direction: column;
+    }
+    body{
+        border: 2px solid #999;
+        max-width: 1500px;
+    }
+    #chead1row1, #chead1row2, .a1 {
+    font-size: 16px;
+    }
+    #heading {
+    font-size: 42px;
+    }
+    .logoOrg {
+        font-size: 28px;
+    }
+    .nameOrg {
+        font-size: 28px;
+    }
+    .convertorName {
+    font-size: 22px;
+    }    
+}
+
