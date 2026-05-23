@@ -1,1 +1,1269 @@
-const _0x5a3b8a=_0x31bb;(function(_0x335e7e,_0x41cd44){const _0x2f4c10=_0x31bb,_0x2a95a5=_0x335e7e();while(!![]){try{const _0x1180a1=parseInt(_0x2f4c10(0x212))/0x1+-parseInt(_0x2f4c10(0x204))/0x2+-parseInt(_0x2f4c10(0x22e))/0x3*(-parseInt(_0x2f4c10(0x237))/0x4)+-parseInt(_0x2f4c10(0x20f))/0x5+parseInt(_0x2f4c10(0x20a))/0x6+-parseInt(_0x2f4c10(0x21c))/0x7+parseInt(_0x2f4c10(0x20b))/0x8;if(_0x1180a1===_0x41cd44)break;else _0x2a95a5['push'](_0x2a95a5['shift']());}catch(_0x7005f9){_0x2a95a5['push'](_0x2a95a5['shift']());}}}(_0x165d,0x55b14));const hardnessA1=[[0xff,0x50,0x4c,null,null,null,null,null,null,null,null],[0x10e,0x55,80.7,0x29,null,null,null,null,null,null,null],[0x11d,0x5a,85.5,0x30,82.6,null,null,null,null,null,null],[0x131,0x5f,90.2,0x34,84.8,null,null,null,null,null,null],[0x140,0x64,0x5f,56.2,0x57,null,null,null,null,null,null],[0x14f,0x69,99.8,58.6,88.4,null,null,null,null,null,null],[0x15e,0x6e,0x69,62.3,90.5,null,null,null,null,null,null],[0x172,0x73,0x6d,64.5,92.1,null,null,null,null,null,null],[0x181,0x78,0x72,66.7,93.6,null,null,null,null,null,null],[0x190,0x7d,0x77,0x44,0x5f,null,null,null,null,null,null],[0x19f,0x82,0x7c,71.2,96.4,null,null,null,null,null,null],[0x1ae,0x87,0x80,73.1,97.7,null,null,null,null,null,null],[0x1c2,0x8c,0x85,0x4b,0x63,null,null,null,null,null,null],[0x1d1,0x91,0x8a,76.8,100.2,null,null,null,null,null,null],[0x1e0,0x96,0x8f,78.7,101.4,null,null,null,null,null,null],[0x1ef,0x9b,0x93,80.2,102.5,null,null,null,null,null,null],[0x1fe,0xa0,0x98,81.7,103.6,null,null,null,null,null,null],[0x212,0xa5,0x9c,83.4,104.6,null,null,null,null,null,null],[0x221,0xaa,0xa2,0x55,105.5,null,null,null,null,null,null],[0x230,0xaf,0xa6,86.1,106.4,null,null,null,null,null,null],[0x23f,0xb4,0xab,87.1,107.2,null,null,null,null,null,null],[0x253,0xb9,0xb0,88.3,0x6c,null,null,null,null,null,null],[0x262,0xbe,0xb5,89.5,108.7,null,null,null,null,null,null],[0x271,0xc3,0xb9,90.5,109.4,null,null,null,null,null,null],[0x280,0xc8,0xbe,91.5,110.1,null,null,null,null,null,null],[0x294,0xcd,0xc3,92.5,110.7,null,null,null,null,null,null],[0x2a3,0xd2,0xc7,93.5,111.3,null,null,null,null,null,null],[0x2b2,0xd7,0xcc,0x5e,111.9,null,null,null,null,null,null],[0x2c1,0xdc,0xd1,0x5f,112.4,null,null,null,null,null,null],[0x2d0,0xe1,0xd6,0x60,112.9,null,null,null,null,null,null],[0x2e4,0xe6,0xdb,96.7,113.4,null,null,null,null,null,null],[0x2f3,0xeb,0xdf,97.4,113.9,null,null,null,null,null,null],[0x302,0xf0,0xe4,98.1,114.3,20.3,60.7,40.3,69.6,41.7,19.9],[0x311,0xf5,0xe9,98.8,114.7,21.3,61.2,41.1,70.1,42.5,21.1],[0x320,0xfa,0xee,99.5,115.1,22.2,61.6,41.7,70.6,43.4,22.2],[0x334,0xff,0xf2,100.3,null,23.1,0x3e,42.2,71.1,44.2,23.2],[0x343,0x104,0xf7,0x65,null,0x18,62.4,43.1,71.6,0x2d,24.3],[0x352,0x109,0xfc,101.5,null,24.8,62.7,43.7,72.1,45.7,25.2],[0x361,0x10e,0x101,0x66,null,25.6,63.1,44.3,72.6,46.4,26.2],[0x370,0x113,0x105,0x67,null,26.4,63.5,44.9,0x49,47.2,27.1],[0x384,0x118,0x10a,0x68,null,27.1,63.8,45.3,73.4,47.8,27.9],[0x393,0x11d,0x10f,104.5,null,27.8,64.2,0x2e,73.8,48.4,28.7],[0x3a2,0x122,0x114,0x69,null,28.5,64.5,46.5,74.2,0x31,29.5],[0x3b6,0x127,0x118,null,null,29.2,64.8,47.1,74.6,49.7,30.4],[0x3c5,0x12c,0x11d,null,null,29.8,65.2,47.5,74.9,50.2,31.1],[0x3e3,0x136,0x127,null,null,0x1f,65.8,48.4,75.6,51.3,32.5],[0x406,0x140,0x130,null,null,32.2,66.4,49.4,76.2,52.3,33.9],[0x424,0x14a,0x13a,null,null,33.3,0x43,50.2,76.8,53.6,35.2],[0x447,0x154,0x143,null,null,34.4,67.6,51.1,77.4,54.4,36.5],[0x465,0x15e,0x14d,null,null,35.5,68.1,51.9,0x4e,55.4,37.8],[0x483,0x168,0x156,null,null,36.6,68.7,52.8,78.6,56.4,39.1],[0x4a6,0x172,0x160,null,null,37.7,69.2,53.6,79.2,57.4,40.4],[0x4c4,0x17c,0x169,null,null,38.8,69.8,54.4,79.8,58.4,41.7],[0x4e7,0x186,0x173,null,null,39.8,70.3,55.3,80.3,59.3,42.9],[0x50a,0x190,0x17c,null,null,40.8,70.8,0x38,80.8,60.2,44.1],[0x528,0x19a,0x186,null,null,41.8,71.4,56.8,81.4,61.1,45.3],[0x546,0x1a4,0x18f,null,null,42.7,71.8,57.5,81.8,61.9,46.4],[0x569,0x1ae,0x199,null,null,43.6,72.3,58.2,82.3,62.7,47.4],[0x58c,0x1b8,0x1a2,null,null,44.5,72.8,58.8,82.8,63.5,48.4],[0x5af,0x1c2,0x1ac,null,null,45.3,73.3,59.4,83.2,64.3,49.4],[0x5cd,0x1cc,0x1b5,null,null,46.1,73.6,60.1,83.6,64.9,50.4],[0x5f0,0x1d6,0x1bf,null,null,46.9,74.1,60.7,83.9,65.7,51.3],[0x613,0x1e0,0x1c8,null,null,47.7,74.5,61.3,84.3,66.4,52.2],[0x63b,0x1ea,0x1d2,null,null,48.4,74.9,61.6,84.7,67.1,53.1],[0x65e,0x1f4,0x1db,null,null,49.1,75.3,62.2,0x55,67.7,53.9],[0x681,0x1fe,0x1e5,null,null,49.8,75.7,62.9,85.4,68.3,54.7],[0x6a4,0x208,0x1ee,null,null,50.5,76.1,63.5,85.7,0x45,55.6],[0x6cc,0x212,0x1f8,null,null,51.1,76.4,63.9,0x56,69.5,56.2],[0x6ef,0x21c,0x201,null,null,51.7,76.7,64.4,86.3,0x46,0x39],[0x712,0x226,0x20b,null,null,52.3,0x4d,64.8,86.6,70.5,57.8],[0x735,0x230,0x214,null,null,0x35,77.4,65.4,86.9,71.2,58.6],[0x758,0x23a,0x21e,null,null,53.6,77.8,65.8,87.2,71.7,59.3],[0x780,0x244,0x227,null,null,54.1,0x4e,66.2,87.5,72.1,59.9],[0x7a3,0x24e,0x231,null,null,54.7,78.4,66.7,87.8,72.7,60.5],[0x7cb,0x258,0x23a,null,null,55.2,78.6,0x43,0x58,73.2,61.2],[0x7ee,0x262,0x244,null,null,55.7,78.9,67.5,88.2,73.7,61.7],[0x816,0x26c,0x24d,null,null,56.3,79.2,67.9,88.5,74.2,62.4],[0x839,0x276,0x257,null,null,56.8,79.5,68.3,88.8,74.6,0x3f],[0x861,0x280,0x260,null,null,57.3,79.8,68.7,0x59,75.1,63.5],[0x884,0x28a,0x26a,null,null,57.8,0x50,0x45,89.2,75.5,64.1],[null,0x294,null,null,null,58.3,80.3,69.4,89.5,75.9,64.7],[null,0x29e,null,null,null,58.8,80.6,69.8,89.7,76.4,65.3],[null,0x2a8,null,null,null,59.2,80.8,70.1,89.8,76.8,65.7],[null,0x2b2,null,null,null,59.7,81.1,70.5,90.1,77.2,66.2],[null,0x2bc,null,null,null,60.1,81.3,70.8,90.3,77.6,66.7],[null,0x2d0,null,null,null,0x3d,81.8,71.5,90.7,78.4,67.7],[null,0x2e4,null,null,null,61.8,82.2,72.1,0x5b,79.1,68.6],[null,0x2f8,null,null,null,62.5,82.6,72.6,91.2,79.7,69.4],[null,0x30c,null,null,null,63.3,0x53,73.3,91.5,80.4,70.2],[null,0x320,null,null,null,0x40,83.4,73.8,91.8,81.1,0x47],[null,0x334,null,null,null,64.7,83.8,74.3,92.1,81.7,71.8],[null,0x348,null,null,null,65.3,84.1,74.8,92.3,82.2,72.2],[null,0x35c,null,null,null,65.9,84.4,75.3,92.5,82.7,73.1],[null,0x370,null,null,null,66.4,84.7,75.7,92.7,83.1,73.6],[null,0x384,null,null,null,0x43,0x55,76.1,92.9,83.6,74.2],[null,0x398,null,null,null,67.5,85.3,76.5,0x5d,0x54,74.8],[null,0x3ac,null,null,null,0x44,85.6,76.9,93.2,84.4,75.4]],hardnessB1=[[0xd2,0xcd,15.3,57.2,13.4,36.1,65.2,94.8,110.4,65.4,76.8,89.2,0x28b],[0xdc,0xd7,17.4,58.4,15.9,38.1,66.5,96.7,111.4,67.6,78.5,0x5a,0x2ab],[0xe6,0xe1,19.3,59.6,18.2,40.4,67.8,98.4,112.4,69.6,0x50,90.8,0x2cc],[0xf0,0xeb,21.2,60.6,20.4,41.8,68.9,0x64,113.3,71.4,81.4,91.4,0x2ec],[0xfa,0xf5,22.9,61.6,22.5,43.4,0x46,101.4,114.1,0x49,82.5,0x5c,0x30d],[0x104,0xff,24.6,62.5,24.4,0x2d,0x47,102.7,114.9,74.4,83.6,92.5,0x32d],[0x10e,0x10a,26.2,63.4,26.3,46.5,0x48,103.9,115.6,75.7,84.5,92.6,0x34d],[0x118,0x114,27.7,64.3,28.1,47.9,72.9,0x69,116.2,76.9,85.4,92.7,0x36d],[0x122,0x11e,29.1,0x41,29.8,49.3,73.7,0x6a,116.8,77.9,86.1,92.8,0x38d],[0x12c,0x128,30.5,65.8,31.4,50.5,74.5,106.9,117.3,78.9,86.8,92.9,0x3ac],[0x136,0x132,31.8,66.5,32.9,51.8,75.3,107.7,117.8,79.7,87.4,94.3,0x3cc],[0x140,0x13c,33.1,67.2,34.4,52.9,0x4c,108.5,118.3,80.5,0x58,94.6,0x3eb],[0x14a,0x146,34.3,67.8,35.8,0x36,76.7,109.2,118.8,81.2,88.4,94.8,0x40b],[0x154,0x150,35.4,68.5,37.2,55.1,77.3,109.9,119.2,81.9,88.9,0x5f,0x42e],[0x15e,0x159,36.5,69.1,38.4,56.1,0x4e,110.5,119.6,82.5,89.3,95.2,0x449],[0x168,0x163,37.6,69.6,39.7,57.1,78.6,111.1,119.9,0x53,89.6,95.4,0x468],[0x172,0x16d,38.6,70.2,40.9,0x3a,79.1,111.7,120.3,83.5,89.9,95.5,0x487],[0x17c,0x177,39.6,70.7,0x2a,58.9,79.7,112.2,120.6,0x54,90.2,95.6,0x4a5],[0x186,0x181,40.6,71.2,43.2,59.8,80.2,112.7,120.9,84.4,90.5,95.7,0x4c4],[0x190,0x18b,41.5,71.7,44.2,60.6,80.7,113.1,121.2,84.8,90.7,95.8,0x4e2],[0x19a,0x195,42.4,72.2,45.3,61.4,81.2,113.6,121.5,85.1,90.9,95.9,0x501],[0x1a4,0x19e,43.2,72.6,46.3,62.2,81.6,null,null,null,null,null,0x51f],[0x1ae,0x1a8,44.1,0x49,47.2,0x3f,82.1,null,null,null,null,null,0x53d],[0x1b8,0x1b2,44.9,73.5,48.2,63.7,82.5,null,null,null,null,null,0x55b],[0x1c2,0x1bc,45.7,73.9,49.1,64.4,82.9,null,null,null,null,null,0x579],[0x1cc,0x1c5,46.4,74.3,0x32,65.1,83.3,null,null,null,null,null,0x596],[0x1d6,0x1cf,47.2,74.6,50.8,65.8,83.7,null,null,null,null,null,0x5b4],[0x1e0,0x1d9,47.9,0x4b,51.7,66.4,84.1,null,null,null,null,null,null],[0x1ea,0x1e2,48.6,75.4,52.5,0x43,84.4,null,null,null,null,null,null],[0x1f4,0x1ec,49.2,75.7,53.2,67.6,84.8,null,null,null,null,null,null],[0x1fe,0x1f5,49.9,0x4c,0x36,68.2,85.1,null,null,null,null,null,null],[0x208,0x1ff,50.5,76.4,54.8,68.8,85.4,null,null,null,null,null,null],[0x212,0x208,51.2,76.7,55.5,69.3,85.8,null,null,null,null,null,null],[0x21c,0x212,51.8,0x4d,56.2,69.9,86.1,null,null,null,null,null,null],[0x226,0x21b,52.4,77.3,56.8,70.4,86.4,null,null,null,null,null,null],[0x230,0x225,52.9,77.6,57.5,70.9,86.6,null,null,null,null,null,null],[0x23a,0x22e,53.5,77.9,58.2,71.4,86.9,null,null,null,null,null,null],[0x244,0x238,0x36,78.2,58.8,71.9,87.2,null,null,null,null,null,null],[0x24e,0x241,54.6,78.4,59.4,72.4,87.5,null,null,null,null,null,null],[0x258,0x24a,55.1,78.7,0x3c,72.8,87.7,null,null,null,null,null,null],[0x262,0x254,55.6,78.9,60.6,73.3,0x58,null,null,null,null,null,null],[0x26c,0x25d,56.1,79.2,61.2,73.7,88.2,null,null,null,null,null,null],[0x276,0x266,56.6,79.4,61.7,74.2,88.5,null,null,null,null,null,null],[0x280,0x26f,57.1,79.7,62.3,74.6,88.7,null,null,null,null,null,null],[0x28a,0x278,57.5,79.9,62.8,0x4b,88.9,null,null,null,null,null,null]],hardnessB2=[[0x8c,null,null,null,null,null,null,null,null,null,null,null,0x1cc],[0x96,0x98,null,48.4,null,21.5,56.6,0x51,102.5,51.6,68.4,85.1,0x1f7],[0xa0,0xa2,0x1,50.2,null,24.4,58.3,83.9,104.1,54.8,70.5,86.2,0x220],[0xaa,0xad,0x4,51.9,0.8,0x1b,0x3c,86.6,105.6,57.7,72.4,87.2,0x249],[0xb4,0xb7,6.8,53.4,0x4,29.5,61.5,0x59,106.9,60.2,74.1,0x58,0x270],[0xbe,0xc1,9.4,54.8,0x7,31.8,62.9,91.2,108.1,62.5,75.6,88.8,0x295],[0xc8,0xcb,11.9,56.2,9.9,0x22,64.3,93.2,109.2,64.6,0x4d,89.4,0x2b9],[0xd2,0xd6,14.2,57.4,12.6,36.1,65.6,0x5f,110.3,66.4,78.3,0x5a,0x2dc],[0xdc,0xdf,16.4,58.6,15.1,38.1,66.8,96.7,111.2,68.2,79.5,90.6,0x2fd],[0xe6,0xe9,18.5,59.7,17.6,39.9,67.9,98.3,112.2,69.7,80.6,91.1,0x31c],[0xf0,0xf3,20.5,60.7,19.9,41.7,0x45,99.8,0x71,71.2,81.6,91.6,0x33a],[0xfa,0xfc,22.4,61.7,22.1,43.3,0x46,101.2,113.8,72.5,82.6,0x5c,null],[0x104,0x106,24.3,62.6,24.2,44.9,0x47,102.5,114.6,73.7,83.5,92.4,null],[0x10e,0x10f,0x1a,63.5,26.2,46.4,0x48,103.7,115.3,74.9,84.3,92.7,null],[0x118,0x118,27.7,64.3,28.1,47.9,72.9,104.9,0x74,75.9,85.1,0x5d,null],[0x122,0x121,29.2,65.1,29.9,49.2,73.7,0x6a,116.6,76.9,85.8,93.3,null],[0x12c,0x12a,30.8,65.8,31.6,50.6,74.6,0x6b,117.2,77.9,86.5,93.6,null],[0x136,0x133,32.2,66.6,33.6,51.8,75.4,0x6c,117.8,78.8,87.1,93.9,null],[0x140,0x13c,33.6,67.2,0x23,0x35,76.1,108.9,118.4,79.6,87.8,94.1,null]],hardnessB3=[[0x244,0x23c,0x36,78.1,59.5,71.4,87.2],[0x24e,0x240,54.4,78.4,59.6,71.9,87.4],[0x258,0x244,54.8,78.6,59.9,72.3,87.6],[0x262,0x249,55.2,78.8,60.2,72.8,87.8],[0x26c,0x24f,55.6,79.1,60.5,73.2,0x58],[0x276,0x255,56.1,79.3,60.9,73.6,88.2],[0x280,0x25c,56.5,79.6,61.4,74.1,88.4],[0x28a,0x263,56.9,79.8,61.8,74.5,88.7],[0x294,0x26b,57.4,80.1,62.4,0x4b,88.9],[0x29e,0x273,57.8,80.3,0x3f,75.4,89.1],[0x2a8,0x27c,58.3,80.6,63.6,75.8,89.4],[0x2b2,0x286,58.7,80.9,64.2,76.2,89.6],[0x2bc,0x290,59.2,81.1,64.9,76.7,89.8],[0x2c6,0x29a,59.7,81.4,65.6,77.1,90.1],[0x2d0,0x2a5,60.1,81.7,66.4,77.5,90.3]],hardnessC=[[0xd2,0xd4,0xcd,null,null,null,null,null,95.6,110.7,66.9,0x4e,90.2],[0xdc,0xde,0xd7,18.8,59.4,16.4,38.8,0x43,97.2,111.6,68.6,79.1,90.7],[0xe6,0xe8,0xe1,20.6,60.3,18.7,40.5,68.2,98.6,112.5,70.2,80.1,91.2],[0xf0,0xf2,0xeb,22.2,61.2,20.9,42.2,69.3,0x64,113.3,71.6,0x51,91.7],[0xfa,0xfc,0xf5,23.9,62.1,0x17,43.8,70.3,101.4,0x72,72.9,81.9,92.1],[0x104,0x106,0xff,25.4,62.8,24.9,45.3,71.3,102.6,114.7,74.1,82.7,92.5],[0x10e,0x110,0x109,26.9,63.6,26.8,46.8,72.2,103.7,115.3,75.2,83.5,92.9],[0x118,0x11a,0x113,28.3,64.4,28.6,48.2,73.1,104.7,115.9,76.3,84.2,93.3],[0x122,0x125,0x11d,29.7,65.1,30.2,49.5,73.9,105.6,116.4,77.3,84.8,93.6],[0x12c,0x12f,0x127,0x1f,65.8,31.9,50.7,74.7,106.5,116.9,78.2,85.5,93.9],[0x136,0x139,0x130,32.3,66.4,33.4,51.9,75.4,107.3,117.4,79.1,0x56,94.2],[0x140,0x143,0x13a,33.5,67.1,34.9,0x35,76.1,108.1,117.8,79.9,86.6,94.5],[0x14a,0x14d,0x144,34.6,67.7,36.3,54.1,76.8,108.8,118.2,80.6,87.1,94.8],[0x154,0x157,0x14e,35.8,68.3,37.6,55.2,77.4,109.5,118.6,81.4,87.6,0x5f],[0x15e,0x161,0x158,36.8,68.8,0x27,56.2,0x4e,null,null,null,null,null],[0x168,0x16b,0x162,37.9,69.4,40.2,57.2,78.6,null,null,null,null,null],[0x172,0x175,0x16b,38.9,69.9,41.4,58.1,79.2,null,null,null,null,null],[0x17c,0x17f,0x175,39.9,70.4,42.6,0x3b,79.7,null,null,null,null,null],[0x186,0x189,0x17f,40.8,0x47,43.7,59.9,80.2,null,null,null,null,null],[0x190,0x194,0x188,41.7,71.4,44.8,60.7,80.7,null,null,null,null,null],[0x19a,0x19e,0x192,42.6,71.9,45.8,61.5,81.2,null,null,null,null,null],[0x1a4,0x1a8,0x19c,43.5,72.4,46.9,62.3,81.6,null,null,null,null,null],[0x1ae,0x1b2,0x1a6,44.3,72.8,47.8,63.1,82.1,null,null,null,null,null],[0x1b8,0x1bc,0x1af,45.1,73.3,48.8,63.8,82.5,null,null,null,null,null],[0x1c2,0x1c6,0x1b9,45.9,73.7,49.7,64.5,82.9,null,null,null,null,null],[0x1cc,0x1d0,0x1c2,46.7,74.1,50.5,65.2,83.3,null,null,null,null,null],[0x1d6,0x1da,0x1cc,47.4,74.5,51.4,65.8,83.7,null,null,null,null,null],[0x1e0,0x1e4,0x1d5,48.2,74.9,52.2,66.5,0x54,null,null,null,null,null],[0x1ea,0x1ee,0x1df,48.9,75.3,53.1,67.1,84.4,null,null,null,null,null],[0x1f4,0x1f9,0x1e8,49.5,75.6,53.9,67.7,84.7,null,null,null,null,null],[0x1fe,0x203,0x1f2,50.2,0x4c,54.6,68.3,85.1,null,null,null,null,null],[0x208,0x20d,0x1fb,50.9,76.4,55.4,68.9,85.4,null,null,null,null,null],[0x212,0x217,0x205,51.6,76.7,56.2,69.5,85.7,null,null,null,null,null],[0x21c,0x221,0x20e,52.1,0x4d,56.8,0x46,0x56,null,null,null,null,null],[0x226,0x22b,0x217,52.7,77.4,57.6,70.6,86.3,null,null,null,null,null],[0x230,0x235,0x221,53.3,77.7,58.2,71.1,86.6,null,null,null,null,null],[0x23a,0x23f,0x22a,53.9,0x4e,58.9,71.6,86.9,null,null,null,null,null,null,null],[0x244,0x249,0x233,54.5,78.3,59.6,72.1,87.1,null,null,null,null,null,null,null],[0x24e,0x253,0x23c,0x37,78.6,60.2,72.6,87.4,null,null,null,null,null,null,null],[0x258,0x25e,0x246,55.6,78.9,60.8,0x49,87.7,null,null,null,null,null,null,null],[0x262,0x268,0x24f,56.1,79.2,61.4,73.5,87.9,null,null,null,null,null,null,null],[0x26c,0x272,0x258,56.6,79.5,0x3e,0x4a,88.2,null,null,null,null,null,null,null],[0x276,0x27c,null,57.1,79.8,62.6,74.4,88.4,null,null,null,null,null,null,null],[0x280,0x286,null,57.6,0x50,63.2,74.8,88.6,null,null,null,null,null,null,null],[0x28a,0x290,null,58.1,80.3,63.7,75.3,88.8,null,null,null,null,null,null,null],[0x294,0x29a,null,58.6,80.6,64.3,75.7,89.1,null,null,null,null,null,null,null],[0x29e,0x2a4,null,0x3b,80.8,64.8,76.1,89.3,null,null,null,null,null,null,null],[0x2a8,0x2ae,null,59.5,0x51,65.3,76.5,89.5,null,null,null,null,null,null,null],[0x2b2,0x2b9,null,59.9,81.3,65.8,76.9,89.7,null,null,null,null,null,null,null],[0x2bc,0x2c3,null,60.4,81.5,66.3,77.3,89.9,null,null,null,null,null,null,null],[0x2c6,0x2cd,null,60.8,81.8,66.8,77.7,90.1,null,null,null,null,null,null,null],[0x2d0,0x2d7,null,61.2,0x52,67.3,0x4e,90.3,null,null,null,null,null,null,null],[0x2da,0x2e1,null,61.6,82.2,67.8,78.4,90.5,null,null,null,null,null,null,null],[0x2e4,0x2eb,null,0x3e,82.5,68.2,78.8,90.7,null,null,null,null,null,null,null],[0x2ee,0x2f5,null,62.4,82.7,68.7,79.1,90.8,null,null,null,null,null,null,null],[0x2f8,0x2ff,null,62.8,82.9,69.1,79.4,0x5b,null,null,null,null,null,null,null],[0x302,0x309,null,63.2,83.1,69.6,79.8,91.2,null,null,null,null,null,null,null],[0x30c,0x314,null,63.6,83.3,0x46,80.1,91.4,null,null,null,null,null,null,null],[0x316,0x31e,null,0x40,83.5,70.4,80.4,91.5,null,null,null,null,null,null,null],[0x320,0x328,null,64.4,83.7,70.8,80.8,91.7,null,null,null,null,null,null,null],[0x32a,0x332,null,64.7,83.9,71.3,81.1,91.9,null,null,null,null,null,null,null],[0x334,0x33c,null,65.1,84.1,71.7,81.4,0x5c,null,null,null,null,null,null,null],[0x33e,0x346,null,65.4,84.3,72.1,81.7,92.2,null,null,null,null,null,null,null],[0x348,0x350,null,65.8,84.5,72.4,0x52,92.3,null,null,null,null,null,null,null]],hardnessD=[[0x244,54.2,77.9,58.8,71.7,87.1],[0x24e,54.7,78.2,59.4,72.2,87.4],[0x258,55.2,78.5,0x3c,72.6,87.6],[0x262,55.7,78.7,60.6,73.1,87.8],[0x26c,56.2,0x4f,61.1,73.5,88.1],[0x276,56.6,79.3,61.7,0x4a,88.3],[0x280,57.1,79.6,62.2,74.4,88.5],[0x28a,57.6,79.8,62.8,74.8,88.7],[0x294,0x3a,80.1,63.3,75.2,88.9],[0x29e,58.5,80.3,63.8,75.6,89.1],[0x2a8,58.9,80.6,64.3,0x4c,89.3],[0x2b2,59.3,80.8,64.8,76.4,89.5],[0x2bc,59.7,0x51,65.3,76.7,89.7],[0x2c6,60.2,81.3,65.8,77.1,89.9],[0x2d0,60.6,81.5,66.3,77.4,90.1],[0x2da,0x3d,81.7,66.7,77.8,90.2],[0x2e4,61.4,0x52,67.2,78.1,90.4],[0x2ee,61.8,82.2,67.6,78.5,90.6],[0x2f8,62.1,82.4,68.1,78.8,90.7],[0x302,62.5,82.6,68.5,79.1,90.9],[0x30c,62.9,82.8,68.9,79.5,0x5b],[0x316,63.3,0x53,69.4,79.8,91.2],[0x320,63.6,83.2,69.8,80.1,91.3],[0x32a,0x40,83.5,70.2,80.4,91.5],[0x334,64.3,83.6,70.6,80.7,91.6],[0x33e,64.7,83.8,0x47,0x51,91.8],[0x348,0x41,0x54,71.4,81.3,91.9],[0x352,65.4,84.2,71.7,81.6,0x5c],[0x35c,65.7,84.4,72.1,81.8,92.2],[0x366,0x42,84.6,72.5,82.1,92.3],[0x370,66.3,84.8,72.8,82.4,92.4],[0x37a,66.7,0x55,73.2,82.7,92.5],[0x384,0x43,[85.1],73.6,82.9,92.6],[0x38e,67.3,85.3,73.9,83.2,92.8],[0x398,67.6,85.5,74.2,83.4,92.9]],tsA1El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x1f4)),hv10A1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f8)),hbA1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x225)),hrbA1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x205)),hrfA1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x210)),hrcA1El=document[_0x5a3b8a(0x236)]('\x68\x72\x63\x41\x31'),hraA1El=document[_0x5a3b8a(0x236)]('\x68\x72\x61\x41\x31'),hrdA1El=document[_0x5a3b8a(0x236)]('\x68\x72\x64\x41\x31'),hr15NA1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x211)),hr30NA1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f2)),hr45NA1El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x208)),hvB1El=document[_0x5a3b8a(0x236)]('\x68\x76\x42\x31'),hbwB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1fe)),hrcB1El=document[_0x5a3b8a(0x236)]('\x68\x72\x63\x42\x31'),hraB1El=document[_0x5a3b8a(0x236)]('\x68\x72\x61\x42\x31'),hr45NB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1fc)),hr30NB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x217)),hr15NB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x21f)),hrbB1El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x1fb)),hrfB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x206)),hr45TB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f1)),hr30TB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x232)),hr15TB1El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x68\x72\x31\x35\x54\x42\x31'),tsB1El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x234)),hvB2El=document[_0x5a3b8a(0x236)]('\x68\x76\x42\x32'),hbwB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x68\x62\x77\x42\x32'),hrcB2El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f0)),hraB2El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x224)),hr45NB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x68\x72\x34\x35\x4e\x42\x32'),hr30NB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x68\x72\x33\x30\x4e\x42\x32'),hr15NB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x1f5)),hrbB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x200)),hrfB2El=document[_0x5a3b8a(0x236)]('\x68\x72\x66\x42\x32'),hr45TB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x22d)),hr30TB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x21e)),hr15TB2El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x222)),tsB2El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64']('\x74\x73\x42\x32'),hvB3El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x227)),hbwB3El=document[_0x5a3b8a(0x236)]('\x68\x62\x77\x42\x33'),hrcB3El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x207)),hraB3El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x203)),hr45NB3El=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1fd)),hr30NB3El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x216)),hr15NB3El=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x220)),hvCEl=document[_0x5a3b8a(0x236)]('\x68\x76\x43'),hv5CEl=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x221)),hbCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1ef)),hrcCEl=document[_0x5a3b8a(0x236)]('\x68\x72\x63\x43'),hraCEl=document[_0x5a3b8a(0x236)]('\x68\x72\x61\x43'),hr45NCEl=document[_0x5a3b8a(0x236)]('\x68\x72\x34\x35\x4e\x43'),hr30NCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f3)),hr15NCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x215)),hrbCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x1f6)),hrfCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x214)),hr45TCEl=document['\x67\x65\x74\x45\x6c\x65\x6d\x65\x6e\x74\x42\x79\x49\x64'](_0x5a3b8a(0x1fa)),hr30TCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x201)),hr15TCEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x228)),hvDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x202)),hrcDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x230)),hraDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x20d)),hr45NDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x20c)),hr30NDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x231)),hr15NDEl=document[_0x5a3b8a(0x236)](_0x5a3b8a(0x22c));function _0x165d(){const _0x31a4bd=['\x41\x68\x7a\x64','\x41\x68\x69\x5a\x6d\x66\x72\x63\x6d\x47','\x41\x68\x69\x58\x6e\x75\x35\x63\x6d\x71','\x41\x68\x69\x58\x6e\x75\x35\x63\x6d\x57','\x41\x68\x79\x31\x71\x57','\x41\x68\x69\x58\x6e\x76\x72\x63\x6d\x47','\x41\x68\x6a\x48\x71\x57','\x41\x68\x6a\x48\x71\x4a\x69','\x41\x67\x6a\x62\x6d\x71','\x41\x67\x6a\x33\x71\x4a\x6d','\x41\x68\x7a\x63\x6d\x57','\x41\x68\x69\x58\x6e\x76\x72\x64','\x43\x67\x66\x4e\x7a\x76\x39\x32\x41\x77\x76\x33','\x42\x4d\x66\x54\x7a\x71','\x44\x4d\x4c\x5a\x41\x78\x71\x54\x79\x32\x39\x31\x42\x4e\x71','\x41\x68\x69\x58\x6e\x75\x35\x65','\x41\x68\x69\x30\x6e\x76\x72\x63\x6d\x47','\x6e\x5a\x48\x63\x77\x77\x7a\x72\x72\x68\x47','\x41\x68\x6a\x4a\x71\x4a\x65','\x41\x68\x6a\x4a\x72\x61','\x41\x68\x69\x5a\x6d\x65\x35\x65','\x41\x68\x69\x5a\x6d\x66\x72\x63\x6d\x71','\x7a\x32\x76\x30\x73\x78\x72\x4c\x42\x71','\x44\x68\x6e\x63\x6d\x71','\x41\x68\x69\x30\x6e\x75\x35\x64','\x7a\x32\x76\x30\x72\x77\x58\x4c\x42\x77\x76\x55\x44\x65\x6a\x35\x73\x77\x71','\x6d\x5a\x69\x34\x6e\x5a\x6a\x73\x42\x4b\x35\x70\x71\x31\x65','\x43\x32\x76\x30\x73\x78\x72\x4c\x42\x71','\x41\x67\x6a\x64','\x41\x68\x6a\x4a\x71\x4a\x69','\x41\x68\x69\x30\x6e\x76\x72\x63\x6d\x71','\x41\x68\x69\x5a\x6d\x65\x35\x62\x6d\x71','\x41\x68\x69\x5a\x6d\x65\x35\x64','\x44\x68\x6e\x62\x6d\x71','\x41\x68\x69\x58\x6e\x75\x35\x63\x6d\x47','\x41\x68\x6a\x49\x71\x57','\x42\x67\x76\x55\x7a\x33\x72\x4f','\x41\x68\x79\x58\x6d\x65\x65\x58','\x41\x68\x69\x30\x6e\x75\x35\x63\x6d\x47','\x41\x68\x69\x30\x6e\x76\x72\x64','\x41\x68\x6a\x49\x71\x4a\x65','\x41\x68\x69\x30\x6e\x75\x35\x63\x6d\x71','\x41\x68\x69\x30\x6e\x75\x35\x63\x6d\x57','\x41\x67\x6a\x33\x71\x4a\x65','\x41\x68\x69\x58\x6e\x76\x72\x63\x6d\x71','\x41\x68\x6a\x49\x71\x4a\x69','\x41\x68\x69\x5a\x6d\x66\x72\x64','\x41\x68\x7a\x65','\x41\x68\x6a\x48\x71\x4a\x6d','\x6f\x64\x79\x34\x6f\x64\x65\x32\x79\x4e\x6a\x76\x74\x75\x76\x59','\x41\x68\x6a\x49\x71\x74\x65','\x41\x68\x6a\x4d\x71\x4a\x65','\x41\x68\x6a\x4a\x71\x4a\x6d','\x41\x68\x69\x30\x6e\x75\x35\x62\x6d\x71','\x44\x68\x6e\x63\x6d\x47','\x6d\x5a\x61\x34\x6d\x74\x75\x30\x6e\x4b\x7a\x41\x75\x67\x50\x4e\x41\x47','\x6d\x4a\x71\x32\x6d\x5a\x79\x30\x6d\x68\x50\x4a\x75\x32\x31\x74\x74\x47','\x41\x68\x69\x30\x6e\x75\x35\x65','\x41\x68\x6a\x48\x72\x61','\x41\x68\x69\x5a\x6d\x65\x35\x63\x6d\x47','\x6d\x74\x4b\x35\x6d\x64\x4b\x5a\x6e\x77\x6a\x49\x76\x30\x4c\x54\x79\x47','\x41\x68\x6a\x4d\x71\x74\x65','\x41\x68\x69\x58\x6e\x75\x35\x62\x6d\x71','\x6d\x74\x43\x32\x6e\x4a\x75\x35\x75\x4b\x39\x55\x43\x75\x35\x67','\x41\x68\x6a\x4b\x71\x74\x65','\x41\x68\x6a\x4d\x71\x57','\x41\x68\x69\x58\x6e\x75\x35\x64','\x41\x68\x69\x5a\x6d\x65\x35\x63\x6d\x57','\x41\x68\x69\x5a\x6d\x65\x35\x63\x6d\x71','\x44\x67\x66\x59\x7a\x32\x76\x30','\x44\x4d\x66\x53\x44\x77\x75','\x41\x68\x6a\x4a\x71\x57','\x41\x67\x6a\x33\x71\x4a\x69','\x6d\x74\x4b\x33\x6f\x74\x43\x30\x76\x66\x6e\x4d\x73\x67\x50\x35'];_0x165d=function(){return _0x31a4bd;};return _0x165d();}function computeValues(_0x584dc3){const _0x3434bd=_0x5a3b8a;tsA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x0],hv10A1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x1],hbA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x2],hrbA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x3],hrfA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x4],hrcA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x5],hraA1El['\x76\x61\x6c\x75\x65']=hardnessA1[_0x584dc3][0x6],hrdA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x7],hr15NA1El['\x76\x61\x6c\x75\x65']=hardnessA1[_0x584dc3][0x8],hr30NA1El[_0x3434bd(0x219)]=hardnessA1[_0x584dc3][0x9],hr45NA1El['\x76\x61\x6c\x75\x65']=hardnessA1[_0x584dc3][0xa];}function computeValues2(_0x2d8d8f){const _0x40d791=_0x5a3b8a;hvB1El['\x76\x61\x6c\x75\x65']=hardnessB1[_0x2d8d8f][0x0],hbwB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x1],hrcB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x2],hraB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x3],hr45NB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x4],hr30NB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x5],hr15NB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x6],hrbB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x7],hrfB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x8],hr45TB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0x9],hr30TB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0xa],hr15TB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0xb],tsB1El[_0x40d791(0x219)]=hardnessB1[_0x2d8d8f][0xc];}function computeValues3(_0x51af91){const _0x424cd1=_0x5a3b8a;hvB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0x0],hbwB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0x1],hrcB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0x2],hraB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0x3],hr45NB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0x4],hr30NB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0x5],hr15NB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0x6],hrbB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0x7],hrfB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0x8],hr45TB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0x9],hr30TB2El['\x76\x61\x6c\x75\x65']=hardnessB2[_0x51af91][0xa],hr15TB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0xb],tsB2El[_0x424cd1(0x219)]=hardnessB2[_0x51af91][0xc];}function _0x31bb(_0x1916a0,_0x1155ce){_0x1916a0=_0x1916a0-0x1ef;const _0x165daa=_0x165d();let _0x31bb26=_0x165daa[_0x1916a0];if(_0x31bb['\x73\x68\x62\x76\x4f\x6e']===undefined){var _0x5172b2=function(_0xff2a44){const _0xaf9a63='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let _0x584dc3='',_0x2d8d8f='';for(let _0x51af91=0x0,_0x52b077,_0x54d9ba,_0x15839a=0x0;_0x54d9ba=_0xff2a44['\x63\x68\x61\x72\x41\x74'](_0x15839a++);~_0x54d9ba&&(_0x52b077=_0x51af91%0x4?_0x52b077*0x40+_0x54d9ba:_0x54d9ba,_0x51af91++%0x4)?_0x584dc3+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&_0x52b077>>(-0x2*_0x51af91&0x6)):0x0){_0x54d9ba=_0xaf9a63['\x69\x6e\x64\x65\x78\x4f\x66'](_0x54d9ba);}for(let _0x5b22d5=0x0,_0x4e8504=_0x584dc3['\x6c\x65\x6e\x67\x74\x68'];_0x5b22d5<_0x4e8504;_0x5b22d5++){_0x2d8d8f+='\x25'+('\x30\x30'+_0x584dc3['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](_0x5b22d5)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(_0x2d8d8f);};_0x31bb['\x47\x78\x5a\x72\x66\x62']=_0x5172b2,_0x31bb['\x64\x56\x58\x43\x50\x4a']={},_0x31bb['\x73\x68\x62\x76\x4f\x6e']=!![];}const _0x327a14=_0x165daa[0x0],_0x24d3be=_0x1916a0+_0x327a14,_0x3958d9=_0x31bb['\x64\x56\x58\x43\x50\x4a'][_0x24d3be];return!_0x3958d9?(_0x31bb26=_0x31bb['\x47\x78\x5a\x72\x66\x62'](_0x31bb26),_0x31bb['\x64\x56\x58\x43\x50\x4a'][_0x24d3be]=_0x31bb26):_0x31bb26=_0x3958d9,_0x31bb26;}function computeValues4(_0x52b077){const _0x5680dd=_0x5a3b8a;hvB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x0],hbwB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x1],hrcB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x2],hraB3El['\x76\x61\x6c\x75\x65']=hardnessB3[_0x52b077][0x3],hr45NB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x4],hr30NB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x5],hr15NB3El[_0x5680dd(0x219)]=hardnessB3[_0x52b077][0x6];}function computeValues5(_0x54d9ba){const _0x33b0f6=_0x5a3b8a;hvCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x0],hv5CEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x1],hbCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x2],hrcCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x3],hraCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x4],hr45NCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x5],hr30NCEl['\x76\x61\x6c\x75\x65']=hardnessC[_0x54d9ba][0x6],hr15NCEl['\x76\x61\x6c\x75\x65']=hardnessC[_0x54d9ba][0x7],hrbCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x8],hrfCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0x9],hr45TCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0xa],hr30TCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0xb],hr15TCEl[_0x33b0f6(0x219)]=hardnessC[_0x54d9ba][0xc];}function computeValues6(_0x15839a){const _0x104d65=_0x5a3b8a;hvDEl['\x76\x61\x6c\x75\x65']=hardnessD[_0x15839a][0x0],hrcDEl[_0x104d65(0x219)]=hardnessD[_0x15839a][0x1],hraDEl[_0x104d65(0x219)]=hardnessD[_0x15839a][0x2],hr45NDEl['\x76\x61\x6c\x75\x65']=hardnessD[_0x15839a][0x3],hr30NDEl[_0x104d65(0x219)]=hardnessD[_0x15839a][0x4],hr15NDEl[_0x104d65(0x219)]=hardnessD[_0x15839a][0x5];}function computeHard(_0x5b22d5){const _0x78a071=_0x5a3b8a,_0x4e8504=+_0x5b22d5[_0x78a071(0x218)][_0x78a071(0x219)];switch(_0x5b22d5['\x74\x61\x72\x67\x65\x74'][_0x78a071(0x22a)]){case _0x78a071(0x1f4):for(let _0x39dc94=0x0;_0x4e8504>=hardnessA1[_0x39dc94][0x0]&&!(_0x39dc94>0x0&&hardnessA1[_0x39dc94-0x1][0x0]>0x0&&hardnessA1[_0x39dc94][0x0]===null)&&_0x39dc94<hardnessA1['\x6c\x65\x6e\x67\x74\x68'];_0x39dc94++){hardnessA1[_0x39dc94][0x0]===null&&hardnessA1[_0x39dc94+0x2][0x0]>=hardnessA1[_0x39dc94+0x1][0x0]?computeValues(_0x39dc94+0x1):computeValues(_0x39dc94);}_0x4e8504<hardnessA1[0x0][0x0]&&computeValues(0x0);break;case _0x78a071(0x1f8):for(let _0x3e603c=0x0;_0x4e8504>=hardnessA1[_0x3e603c][0x1]&&!(_0x3e603c>0x0&&hardnessA1[_0x3e603c-0x1][0x1]>0x0&&hardnessA1[_0x3e603c][0x1]===null)&&_0x3e603c<hardnessA1[_0x78a071(0x1f7)];_0x3e603c++){hardnessA1[_0x3e603c][0x1]===null&&hardnessA1[_0x3e603c+0x2][0x1]>=hardnessA1[_0x3e603c+0x1][0x1]?computeValues(_0x3e603c+0x1):computeValues(_0x3e603c);}_0x4e8504<hardnessA1[0x0][0x1]&&computeValues(0x0);break;case _0x78a071(0x225):for(let _0x17425a=0x0;_0x4e8504>=hardnessA1[_0x17425a][0x2]&&!(_0x17425a>0x0&&hardnessA1[_0x17425a-0x1][0x2]>0x0&&hardnessA1[_0x17425a][0x2]===null)&&_0x17425a<hardnessA1[_0x78a071(0x1f7)];_0x17425a++){hardnessA1[0x0][0x2]===null&&hardnessA1[_0x17425a+0x2][0x2]>=hardnessA1[_0x17425a+0x1][0x2]?computeValues(_0x17425a+0x1):computeValues(_0x17425a);}_0x4e8504<hardnessA1[0x0][0x2]&&computeValues(0x0);break;case _0x78a071(0x205):for(let _0x72c490=0x0;_0x4e8504>=hardnessA1[_0x72c490][0x3]&&!(_0x72c490>0x0&&hardnessA1[_0x72c490-0x1][0x3]>0x0&&hardnessA1[_0x72c490][0x3]===null)&&_0x72c490<hardnessA1[_0x78a071(0x1f7)];_0x72c490++){hardnessA1[_0x72c490][0x3]===null&&hardnessA1[_0x72c490+0x2][0x3]>=hardnessA1[_0x72c490+0x1][0x3]?computeValues(_0x72c490+0x1):computeValues(_0x72c490);}_0x4e8504<hardnessA1[0x0][0x3]&&computeValues(0x0);break;case'\x68\x72\x66\x41\x31':for(let _0x873a6c=0x0;_0x4e8504>=hardnessA1[_0x873a6c][0x4]&&!(_0x873a6c>0x0&&hardnessA1[_0x873a6c-0x1][0x4]>0x0&&hardnessA1[_0x873a6c][0x4]===null)&&_0x873a6c<hardnessA1[_0x78a071(0x1f7)];_0x873a6c++){hardnessA1[_0x873a6c][0x4]===null&&hardnessA1[_0x873a6c+0x2][0x4]>=hardnessA1[_0x873a6c+0x1][0x4]?computeValues(_0x873a6c+0x1):computeValues(_0x873a6c);}_0x4e8504<hardnessA1[0x0][0x4]&&computeValues(0x0);break;case'\x68\x72\x63\x41\x31':for(let _0x331a0c=0x0;_0x4e8504>=hardnessA1[_0x331a0c][0x5]&&!(_0x331a0c>0x0&&hardnessA1[_0x331a0c-0x1][0x5]>0x0&&hardnessA1[_0x331a0c][0x5]===null)&&_0x331a0c<hardnessA1[_0x78a071(0x1f7)];_0x331a0c++){hardnessA1[_0x331a0c][0x5]===null&&hardnessA1[_0x331a0c+0x2][0x5]>=hardnessA1[_0x331a0c+0x1][0x5]?computeValues(_0x331a0c+0x1):computeValues(_0x331a0c);}_0x4e8504<hardnessA1[0x0][0x5]&&computeValues(0x0);break;case'\x68\x72\x61\x41\x31':for(let _0x50f42a=0x0;_0x4e8504>=hardnessA1[_0x50f42a][0x6]&&!(_0x50f42a>0x0&&hardnessA1[_0x50f42a-0x1][0x6]>0x0&&hardnessA1[_0x50f42a][0x6]===null)&&_0x50f42a<hardnessA1[_0x78a071(0x1f7)];_0x50f42a++){hardnessA1[_0x50f42a][0x6]===null&&hardnessA1[_0x50f42a+0x2][0x6]>=hardnessA1[_0x50f42a+0x1][0x6]?computeValues(_0x50f42a+0x1):computeValues(_0x50f42a);}_0x4e8504<hardnessA1[0x0][0x6]&&computeValues(0x0);break;case _0x78a071(0x213):for(let _0x4d3d6c=0x0;_0x4e8504>=hardnessA1[_0x4d3d6c][0x7]&&!(_0x4d3d6c>0x0&&hardnessA1[_0x4d3d6c-0x1][0x7]>0x0&&hardnessA1[_0x4d3d6c][0x7]===null)&&_0x4d3d6c<hardnessA1['\x6c\x65\x6e\x67\x74\x68'];_0x4d3d6c++){hardnessA1[_0x4d3d6c][0x7]===null&&hardnessA1[_0x4d3d6c+0x2][0x7]>=hardnessA1[_0x4d3d6c+0x1][0x7]?computeValues(_0x4d3d6c+0x1):computeValues(_0x4d3d6c);}_0x4e8504<hardnessA1[0x0][0x7]&&computeValues(0x0);break;case _0x78a071(0x211):for(let _0x5698fc=0x0;_0x4e8504>=hardnessA1[_0x5698fc][0x8]&&!(_0x5698fc>0x0&&hardnessA1[_0x5698fc-0x1][0x8]>0x0&&hardnessA1[_0x5698fc][0x8]===null)&&_0x5698fc<hardnessA1['\x6c\x65\x6e\x67\x74\x68'];_0x5698fc++){hardnessA1[_0x5698fc][0x8]===null&&hardnessA1[_0x5698fc+0x2][0x8]>=hardnessA1[_0x5698fc+0x1][0x8]?computeValues(_0x5698fc+0x1):computeValues(_0x5698fc);}_0x4e8504<hardnessA1[0x0][0x8]&&computeValues(0x0);break;case _0x78a071(0x1f2):for(let _0x3a71e3=0x0;_0x4e8504>=hardnessA1[_0x3a71e3][0x9]&&!(_0x3a71e3>0x0&&hardnessA1[_0x3a71e3-0x1][0x9]>0x0&&hardnessA1[_0x3a71e3][0x9]===null)&&_0x3a71e3<hardnessA1[_0x78a071(0x1f7)];_0x3a71e3++){hardnessA1[_0x3a71e3][0x9]===null&&hardnessA1[_0x3a71e3+0x2][0x9]>=hardnessA1[_0x3a71e3+0x1][0x9]?computeValues(_0x3a71e3+0x1):computeValues(_0x3a71e3);}_0x4e8504<hardnessA1[0x0][0x9]&&computeValues(0x0);break;case _0x78a071(0x208):for(let _0x5ec94a=0x0;_0x4e8504>=hardnessA1[_0x5ec94a][0xa]&&!(_0x5ec94a>0x0&&hardnessA1[_0x5ec94a-0x1][0xa]>0x0&&hardnessA1[_0x5ec94a][0xa]===null)&&_0x5ec94a<hardnessA1['\x6c\x65\x6e\x67\x74\x68'];_0x5ec94a++){hardnessA1[_0x5ec94a][0xa]===null&&hardnessA1[_0x5ec94a+0x2][0xa]>=hardnessA1[_0x5ec94a+0x1][0xa]?computeValues(_0x5ec94a+0x1):computeValues(_0x5ec94a);}_0x4e8504<hardnessA1[0x0][0xa]&&computeValues(0x0);break;case'\x68\x76\x42\x31':for(let _0x336ba3=0x0;_0x4e8504>=hardnessB1[_0x336ba3][0x0]&&!(_0x336ba3>0x0&&hardnessB1[_0x336ba3-0x1][0x0]>0x0&&hardnessB1[_0x336ba3][0x0]===null)&&_0x336ba3<hardnessB1['\x6c\x65\x6e\x67\x74\x68'];_0x336ba3++){hardnessB1[_0x336ba3][0x0]===null&&hardnessB1[_0x336ba3+0x2][0x0]>=hardnessB1[_0x336ba3+0x1][0x0]?computeValues2(_0x336ba3+0x1):computeValues2(_0x336ba3);}_0x4e8504<hardnessB1[0x0][0x0]&&computeValues2(0x0);break;case _0x78a071(0x1fe):for(let _0x5c8981=0x0;_0x4e8504>=hardnessB1[_0x5c8981][0x1]&&!(_0x5c8981>0x0&&hardnessB1[_0x5c8981-0x1][0x1]>0x0&&hardnessB1[_0x5c8981][0x1]===null)&&_0x5c8981<hardnessB1[_0x78a071(0x1f7)];_0x5c8981++){hardnessB1[_0x5c8981][0x1]===null&&hardnessB1[_0x5c8981+0x2][0x1]>=hardnessB1[_0x5c8981+0x1][0x1]?computeValues2(_0x5c8981+0x1):computeValues2(_0x5c8981);}_0x4e8504<hardnessB1[0x0][0x1]&&computeValues2(0x0);break;case _0x78a071(0x22f):for(let _0xb4198a=0x0;_0x4e8504>=hardnessB1[_0xb4198a][0x2]&&!(_0xb4198a>0x0&&hardnessB1[_0xb4198a-0x1][0x2]>0x0&&hardnessB1[_0xb4198a][0x2]===null)&&_0xb4198a<hardnessB1[_0x78a071(0x1f7)];_0xb4198a++){hardnessB1[_0xb4198a][0x2]===null&&hardnessB1[_0xb4198a+0x2][0x2]>=hardnessB1[_0xb4198a+0x1][0x2]?computeValues2(_0xb4198a+0x1):computeValues2(_0xb4198a);}_0x4e8504<hardnessB1[0x0][0x2]&&computeValues2(0x0);break;case'\x68\x72\x61\x42\x31':for(let _0x1de6ec=0x0;_0x4e8504>=hardnessB1[_0x1de6ec][0x3]&&!(_0x1de6ec>0x0&&hardnessB1[_0x1de6ec-0x1][0x3]>0x0&&hardnessB1[_0x1de6ec][0x3]===null)&&_0x1de6ec<hardnessB1[_0x78a071(0x1f7)];_0x1de6ec++){hardnessB1[_0x1de6ec][0x3]===null&&hardnessB1[_0x1de6ec+0x2][0x3]>=hardnessB1[_0x1de6ec+0x1][0x3]?computeValues2(_0x1de6ec+0x1):computeValues2(_0x1de6ec);}_0x4e8504<hardnessB1[0x0][0x3]&&computeValues2(0x0);break;case _0x78a071(0x1fc):for(let _0x44e18d=0x0;_0x4e8504>=hardnessB1[_0x44e18d][0x4]&&!(_0x44e18d>0x0&&hardnessB1[_0x44e18d-0x1][0x4]>0x0&&hardnessB1[_0x44e18d][0x4]===null)&&_0x44e18d<hardnessB1['\x6c\x65\x6e\x67\x74\x68'];_0x44e18d++){hardnessB1[_0x44e18d][0x4]===null&&hardnessB1[_0x44e18d+0x2][0x4]>=hardnessB1[_0x44e18d+0x1][0x4]?computeValues2(_0x44e18d+0x1):computeValues2(_0x44e18d);}_0x4e8504<hardnessB1[0x0][0x4]&&computeValues2(0x0);break;case _0x78a071(0x217):for(let _0x495bae=0x0;_0x4e8504>=hardnessB1[_0x495bae][0x5]&&!(_0x495bae>0x0&&hardnessB1[_0x495bae-0x1][0x5]>0x0&&hardnessB1[_0x495bae][0x5]===null)&&_0x495bae<hardnessB1[_0x78a071(0x1f7)];_0x495bae++){hardnessB1[_0x495bae][0x5]===null&&hardnessB1[_0x495bae+0x2][0x5]>=hardnessB1[_0x495bae+0x1][0x5]?computeValues2(_0x495bae+0x1):computeValues2(_0x495bae);}_0x4e8504<hardnessB1[0x0][0x5]&&computeValues2(0x0);break;case'\x68\x72\x31\x35\x4e\x42\x31':for(let _0x5030d5=0x0;_0x4e8504>=hardnessB1[_0x5030d5][0x6]&&!(_0x5030d5>0x0&&hardnessB1[_0x5030d5-0x1][0x6]>0x0&&hardnessB1[_0x5030d5][0x6]===null)&&_0x5030d5<hardnessB1[_0x78a071(0x1f7)];_0x5030d5++){hardnessB1[_0x5030d5][0x6]===null&&hardnessB1[_0x5030d5+0x2][0x6]>=hardnessB1[_0x5030d5+0x1][0x6]?computeValues2(_0x5030d5+0x1):computeValues2(_0x5030d5);}_0x4e8504<hardnessB1[0x0][0x6]&&computeValues2(0x0);break;case _0x78a071(0x1fb):for(let _0x27c71e=0x0;_0x4e8504>=hardnessB1[_0x27c71e][0x7]&&!(_0x27c71e>0x0&&hardnessB1[_0x27c71e-0x1][0x7]>0x0&&hardnessB1[_0x27c71e][0x7]===null)&&_0x27c71e<hardnessB1[_0x78a071(0x1f7)];_0x27c71e++){hardnessB1[_0x27c71e][0x7]===null&&hardnessB1[_0x27c71e+0x2][0x7]>=hardnessB1[_0x27c71e+0x1][0x7]?computeValues2(_0x27c71e+0x1):computeValues2(_0x27c71e);}_0x4e8504<hardnessB1[0x0][0x7]&&computeValues2(0x0);break;case _0x78a071(0x206):for(let _0x1f8b1b=0x0;_0x4e8504>=hardnessB1[_0x1f8b1b][0x8]&&!(_0x1f8b1b>0x0&&hardnessB1[_0x1f8b1b-0x1][0x8]>0x0&&hardnessB1[_0x1f8b1b][0x8]===null)&&_0x1f8b1b<hardnessB1['\x6c\x65\x6e\x67\x74\x68'];_0x1f8b1b++){hardnessB1[_0x1f8b1b][0x8]===null&&hardnessB1[_0x1f8b1b+0x2][0x8]>=hardnessB1[_0x1f8b1b+0x1][0x8]?computeValues2(_0x1f8b1b+0x1):computeValues2(_0x1f8b1b);}_0x4e8504<hardnessB1[0x0][0x8]&&computeValues2(0x0);break;case _0x78a071(0x1f1):for(let _0x519061=0x0;_0x4e8504>=hardnessB1[_0x519061][0x9]&&!(_0x519061>0x0&&hardnessB1[_0x519061-0x1][0x9]>0x0&&hardnessB1[_0x519061][0x9]===null)&&_0x519061<hardnessB1['\x6c\x65\x6e\x67\x74\x68'];_0x519061++){hardnessB1[_0x519061][0x9]===null&&hardnessB1[_0x519061+0x2][0x9]>=hardnessB1[_0x519061+0x1][0x9]?computeValues2(_0x519061+0x1):computeValues2(_0x519061);}_0x4e8504<hardnessB1[0x0][0x9]&&computeValues2(0x0);break;case'\x68\x72\x33\x30\x54\x42\x31':for(let _0xc4c13e=0x0;_0x4e8504>=hardnessB1[_0xc4c13e][0xa]&&!(_0xc4c13e>0x0&&hardnessB1[_0xc4c13e-0x1][0xa]>0x0&&hardnessB1[_0xc4c13e][0xa]===null)&&_0xc4c13e<hardnessB1[_0x78a071(0x1f7)];_0xc4c13e++){hardnessB1[_0xc4c13e][0xa]===null&&hardnessB1[_0xc4c13e+0x2][0xa]>=hardnessB1[_0xc4c13e+0x1][0xa]?computeValues2(_0xc4c13e+0x1):computeValues2(_0xc4c13e);}_0x4e8504<hardnessB1[0x0][0xa]&&computeValues2(0x0);break;case _0x78a071(0x1ff):for(let _0xebe8c5=0x0;_0x4e8504>=hardnessB1[_0xebe8c5][0xb]&&!(_0xebe8c5>0x0&&hardnessB1[_0xebe8c5-0x1][0xb]>0x0&&hardnessB1[_0xebe8c5][0xb]===null)&&_0xebe8c5<hardnessB1[_0x78a071(0x1f7)];_0xebe8c5++){hardnessB1[_0xebe8c5][0xb]===null&&hardnessB1[_0xebe8c5+0x2][0xb]>=hardnessB1[_0xebe8c5+0x1][0xb]?computeValues2(_0xebe8c5+0x1):computeValues2(_0xebe8c5);}_0x4e8504<hardnessB1[0x0][0xb]&&computeValues2(0x0);break;case _0x78a071(0x234):for(let _0x45efb4=0x0;_0x4e8504>=hardnessB1[_0x45efb4][0xc]&&!(_0x45efb4>0x0&&hardnessB1[_0x45efb4-0x1][0xc]>0x0&&hardnessB1[_0x45efb4][0xc]===null)&&_0x45efb4<hardnessB1[_0x78a071(0x1f7)];_0x45efb4++){hardnessB1[_0x45efb4][0xc]===null&&hardnessB1[_0x45efb4+0x2][0xc]>=hardnessB1[_0x45efb4+0x1][0xc]?computeValues2(_0x45efb4+0x1):computeValues2(_0x45efb4);}_0x4e8504<hardnessB1[0x0][0xc]&&computeValues2(0x0);break;case'\x68\x76\x42\x32':for(let _0x3bba6f=0x0;_0x4e8504>=hardnessB2[_0x3bba6f][0x0]&&!(_0x3bba6f>0x0&&hardnessB2[_0x3bba6f-0x1][0x0]>0x0&&hardnessB2[_0x3bba6f][0x0]===null)&&_0x3bba6f<hardnessB2['\x6c\x65\x6e\x67\x74\x68'];_0x3bba6f++){hardnessB2[_0x3bba6f][0x0]===null&&hardnessB2[_0x3bba6f+0x2][0x0]>=hardnessB2[_0x3bba6f+0x1][0x0]?computeValues3(_0x3bba6f+0x1):computeValues3(_0x3bba6f);}_0x4e8504<hardnessB2[0x0][0x0]&&computeValues3(0x0);break;case _0x78a071(0x21b):for(let _0x45c02c=0x0;_0x4e8504>=hardnessB2[_0x45c02c][0x1]&&!(_0x45c02c>0x0&&hardnessB2[_0x45c02c-0x1][0x1]>0x0&&hardnessB2[_0x45c02c][0x1]===null)&&_0x45c02c<hardnessB2[_0x78a071(0x1f7)];_0x45c02c++){hardnessB2[_0x45c02c][0x1]===null&&hardnessB2[_0x45c02c+0x2][0x1]>=hardnessB2[_0x45c02c+0x1][0x1]?computeValues3(_0x45c02c+0x1):computeValues3(_0x45c02c);}_0x4e8504<hardnessB2[0x0][0x1]&&computeValues3(0x0);break;case _0x78a071(0x1f0):for(let _0x2ef0de=0x0;_0x4e8504>=hardnessB2[_0x2ef0de][0x2]&&!(_0x2ef0de>0x0&&hardnessB2[_0x2ef0de-0x1][0x2]>0x0&&hardnessB2[_0x2ef0de][0x2]===null)&&_0x2ef0de<hardnessB2[_0x78a071(0x1f7)];_0x2ef0de++){hardnessB2[_0x2ef0de][0x2]===null&&hardnessB2[_0x2ef0de+0x2][0x2]>=hardnessB2[_0x2ef0de+0x1][0x2]?computeValues3(_0x2ef0de+0x1):computeValues3(_0x2ef0de);}_0x4e8504<hardnessB2[0x0][0x2]&&computeValues3(0x0);break;case _0x78a071(0x224):for(let _0x109999=0x0;_0x4e8504>=hardnessB2[_0x109999][0x3]&&!(_0x109999>0x0&&hardnessB2[_0x109999-0x1][0x3]>0x0&&hardnessB2[_0x109999][0x3]===null)&&_0x109999<hardnessB2[_0x78a071(0x1f7)];_0x109999++){hardnessB2[_0x109999][0x3]===null&&hardnessB2[_0x109999+0x2][0x3]>=hardnessB2[_0x109999+0x1][0x3]?computeValues3(_0x109999+0x1):computeValues3(_0x109999);}_0x4e8504<hardnessB2[0x0][0x3]&&computeValues3(0x0);break;case _0x78a071(0x1f9):for(let _0xa0415b=0x0;_0x4e8504>=hardnessB2[_0xa0415b][0x4]&&!(_0xa0415b>0x0&&hardnessB2[_0xa0415b-0x1][0x4]>0x0&&hardnessB2[_0xa0415b][0x4]===null)&&_0xa0415b<hardnessB2[_0x78a071(0x1f7)];_0xa0415b++){hardnessB2[_0xa0415b][0x4]===null&&hardnessB2[_0xa0415b+0x2][0x4]>=hardnessB2[_0xa0415b+0x1][0x4]?computeValues3(_0xa0415b+0x1):computeValues3(_0xa0415b);}_0x4e8504<hardnessB2[0x0][0x4]&&computeValues3(0x0);break;case _0x78a071(0x20e):for(let _0xe7724f=0x0;_0x4e8504>=hardnessB2[_0xe7724f][0x5]&&!(_0xe7724f>0x0&&hardnessB2[_0xe7724f-0x1][0x5]>0x0&&hardnessB2[_0xe7724f][0x5]===null)&&_0xe7724f<hardnessB2['\x6c\x65\x6e\x67\x74\x68'];_0xe7724f++){hardnessB2[_0xe7724f][0x5]===null&&hardnessB2[_0xe7724f+0x2][0x5]>=hardnessB2[_0xe7724f+0x1][0x5]?computeValues3(_0xe7724f+0x1):computeValues3(_0xe7724f);}_0x4e8504<hardnessB2[0x0][0x5]&&computeValues3(0x0);break;case'\x68\x72\x31\x35\x4e\x42\x32':for(let _0x3d4f32=0x0;_0x4e8504>=hardnessB2[_0x3d4f32][0x6]&&!(_0x3d4f32>0x0&&hardnessB2[_0x3d4f32-0x1][0x6]>0x0&&hardnessB2[_0x3d4f32][0x6]===null)&&_0x3d4f32<hardnessB2[_0x78a071(0x1f7)];_0x3d4f32++){hardnessB2[_0x3d4f32][0x6]===null&&hardnessB2[_0x3d4f32+0x2][0x6]>=hardnessB2[_0x3d4f32+0x1][0x6]?computeValues3(_0x3d4f32+0x1):computeValues3(_0x3d4f32);}_0x4e8504<hardnessB2[0x0][0x6]&&computeValues3(0x0);break;case _0x78a071(0x200):for(let _0x371b2e=0x0;_0x4e8504>=hardnessB2[_0x371b2e][0x7]&&!(_0x371b2e>0x0&&hardnessB2[_0x371b2e-0x1][0x7]>0x0&&hardnessB2[_0x371b2e][0x7]===null)&&_0x371b2e<hardnessB2[_0x78a071(0x1f7)];_0x371b2e++){hardnessB2[_0x371b2e][0x7]===null&&hardnessB2[_0x371b2e+0x2][0x7]>=hardnessB2[_0x371b2e+0x1][0x7]?computeValues3(_0x371b2e+0x1):computeValues3(_0x371b2e);}_0x4e8504<hardnessB2[0x0][0x7]&&computeValues3(0x0);break;case'\x68\x72\x66\x42\x32':for(let _0x59ada8=0x0;_0x4e8504>=hardnessB2[_0x59ada8][0x8]&&!(_0x59ada8>0x0&&hardnessB2[_0x59ada8-0x1][0x8]>0x0&&hardnessB2[_0x59ada8][0x8]===null)&&_0x59ada8<hardnessB2[_0x78a071(0x1f7)];_0x59ada8++){hardnessB2[_0x59ada8][0x8]===null&&hardnessB2[_0x59ada8+0x2][0x8]>=hardnessB2[_0x59ada8+0x1][0x8]?computeValues3(_0x59ada8+0x1):computeValues3(_0x59ada8);}_0x4e8504<hardnessB2[0x0][0x8]&&computeValues3(0x0);break;case _0x78a071(0x22d):for(let _0x23c5ee=0x0;_0x4e8504>=hardnessB2[_0x23c5ee][0x9]&&!(_0x23c5ee>0x0&&hardnessB2[_0x23c5ee-0x1][0x9]>0x0&&hardnessB2[_0x23c5ee][0x9]===null)&&_0x23c5ee<hardnessB2[_0x78a071(0x1f7)];_0x23c5ee++){hardnessB2[_0x23c5ee][0x9]===null&&hardnessB2[_0x23c5ee+0x2][0x9]>=hardnessB2[_0x23c5ee+0x1][0x9]?computeValues3(_0x23c5ee+0x1):computeValues3(_0x23c5ee);}_0x4e8504<hardnessB2[0x0][0x9]&&computeValues3(0x0);break;case'\x68\x72\x33\x30\x54\x42\x32':for(let _0x31eaa8=0x0;_0x4e8504>=hardnessB2[_0x31eaa8][0xa]&&!(_0x31eaa8>0x0&&hardnessB2[_0x31eaa8-0x1][0xa]>0x0&&hardnessB2[_0x31eaa8][0xa]===null)&&_0x31eaa8<hardnessB2['\x6c\x65\x6e\x67\x74\x68'];_0x31eaa8++){hardnessB2[_0x31eaa8][0xa]===null&&hardnessB2[_0x31eaa8+0x2][0xa]>=hardnessB2[_0x31eaa8+0x1][0xa]?computeValues3(_0x31eaa8+0x1):computeValues3(_0x31eaa8);}_0x4e8504<hardnessB2[0x0][0xa]&&computeValues3(0x0);break;case _0x78a071(0x222):for(let _0x583835=0x0;_0x4e8504>=hardnessB2[_0x583835][0xb]&&!(_0x583835>0x0&&hardnessB2[_0x583835-0x1][0xb]>0x0&&hardnessB2[_0x583835][0xb]===null)&&_0x583835<hardnessB2['\x6c\x65\x6e\x67\x74\x68'];_0x583835++){hardnessB2[_0x583835][0xb]===null&&hardnessB2[_0x583835+0x2][0xb]>=hardnessB2[_0x583835+0x1][0xb]?computeValues3(_0x583835+0x1):computeValues3(_0x583835);}_0x4e8504<hardnessB2[0x0][0xb]&&computeValues3(0x0);break;case _0x78a071(0x209):for(let _0x30a3fb=0x0;_0x4e8504>=hardnessB2[_0x30a3fb][0xc]&&!(_0x30a3fb>0x0&&hardnessB2[_0x30a3fb-0x1][0xc]>0x0&&hardnessB2[_0x30a3fb][0xc]===null)&&_0x30a3fb<hardnessB2['\x6c\x65\x6e\x67\x74\x68'];_0x30a3fb++){hardnessB2[_0x30a3fb][0xc]===null&&hardnessB2[_0x30a3fb+0x2][0xc]>=hardnessB2[_0x30a3fb+0x1][0xc]?computeValues3(_0x30a3fb+0x1):computeValues3(_0x30a3fb);}_0x4e8504<hardnessB2[0x0][0xc]&&computeValues3(0x0);break;case _0x78a071(0x227):for(let _0x29e248=0x0;_0x4e8504>=hardnessB3[_0x29e248][0x0]&&!(_0x29e248>0x0&&hardnessB3[_0x29e248-0x1][0x0]>0x0&&hardnessB3[_0x29e248][0x0]===null)&&_0x29e248<hardnessB3[_0x78a071(0x1f7)];_0x29e248++){hardnessB3[_0x29e248][0x0]===null&&hardnessB3[_0x29e248+0x2][0x0]>=hardnessB3[_0x29e248+0x1][0x0]?computeValues4(_0x29e248+0x1):computeValues4(_0x29e248);}_0x4e8504<hardnessB3[0x0][0x0]&&computeValues4(0x0);break;case _0x78a071(0x226):for(let _0x19b6fc=0x0;_0x4e8504>=hardnessB3[_0x19b6fc][0x1]&&!(_0x19b6fc>0x0&&hardnessB3[_0x19b6fc-0x1][0x1]>0x0&&hardnessB3[_0x19b6fc][0x1]===null)&&_0x19b6fc<hardnessB3[_0x78a071(0x1f7)];_0x19b6fc++){hardnessB3[_0x19b6fc][0x1]===null&&hardnessB3[_0x19b6fc+0x2][0x1]>=hardnessB3[_0x19b6fc+0x1][0x1]?computeValues4(_0x19b6fc+0x1):computeValues4(_0x19b6fc);}_0x4e8504<hardnessB3[0x0][0x1]&&computeValues4(0x0);break;case _0x78a071(0x207):for(let _0x4edd34=0x0;_0x4e8504>=hardnessB3[_0x4edd34][0x2]&&!(_0x4edd34>0x0&&hardnessB3[_0x4edd34-0x1][0x2]>0x0&&hardnessB3[_0x4edd34][0x2]===null)&&_0x4edd34<hardnessB3['\x6c\x65\x6e\x67\x74\x68'];_0x4edd34++){hardnessB3[_0x4edd34][0x2]===null&&hardnessB3[_0x4edd34+0x2][0x2]>=hardnessB3[_0x4edd34+0x1][0x2]?computeValues4(_0x4edd34+0x1):computeValues4(_0x4edd34);}_0x4e8504<hardnessB3[0x0][0x2]&&computeValues4(0x0);break;case _0x78a071(0x203):for(let _0x31352b=0x0;_0x4e8504>=hardnessB3[_0x31352b][0x3]&&!(_0x31352b>0x0&&hardnessB3[_0x31352b-0x1][0x3]>0x0&&hardnessB3[_0x31352b][0x3]===null)&&_0x31352b<hardnessB3[_0x78a071(0x1f7)];_0x31352b++){hardnessB3[_0x31352b][0x3]===null&&hardnessB3[_0x31352b+0x2][0x3]>=hardnessB3[_0x31352b+0x1][0x3]?computeValues4(_0x31352b+0x1):computeValues4(_0x31352b);}_0x4e8504<hardnessB3[0x0][0x3]&&computeValues4(0x0);break;case _0x78a071(0x1fd):for(let _0xd16603=0x0;_0x4e8504>=hardnessB3[_0xd16603][0x4]&&!(_0xd16603>0x0&&hardnessB3[_0xd16603-0x1][0x4]>0x0&&hardnessB3[_0xd16603][0x4]===null)&&_0xd16603<hardnessB3[_0x78a071(0x1f7)];_0xd16603++){hardnessB3[_0xd16603][0x4]===null&&hardnessB3[_0xd16603+0x2][0x4]>=hardnessB3[_0xd16603+0x1][0x4]?computeValues4(_0xd16603+0x1):computeValues4(_0xd16603);}_0x4e8504<hardnessB3[0x0][0x4]&&computeValues4(0x0);break;case _0x78a071(0x216):for(let _0x3ff5ec=0x0;_0x4e8504>=hardnessB3[_0x3ff5ec][0x5]&&!(_0x3ff5ec>0x0&&hardnessB3[_0x3ff5ec-0x1][0x5]>0x0&&hardnessB3[_0x3ff5ec][0x5]===null)&&_0x3ff5ec<hardnessB3[_0x78a071(0x1f7)];_0x3ff5ec++){hardnessB3[_0x3ff5ec][0x5]===null&&hardnessB3[_0x3ff5ec+0x2][0x5]>=hardnessB3[_0x3ff5ec+0x1][0x5]?computeValues4(_0x3ff5ec+0x1):computeValues4(_0x3ff5ec);}_0x4e8504<hardnessB3[0x0][0x5]&&computeValues4(0x0);break;case'\x68\x72\x31\x35\x4e\x42\x33':for(let _0x85d1a3=0x0;_0x4e8504>=hardnessB3[_0x85d1a3][0x6]&&!(_0x85d1a3>0x0&&hardnessB3[_0x85d1a3-0x1][0x6]>0x0&&hardnessB3[_0x85d1a3][0x6]===null)&&_0x85d1a3<hardnessB3[_0x78a071(0x1f7)];_0x85d1a3++){hardnessB3[_0x85d1a3][0x6]===null&&hardnessB3[_0x85d1a3+0x2][0x6]>=hardnessB3[_0x85d1a3+0x1][0x6]?computeValues4(_0x85d1a3+0x1):computeValues4(_0x85d1a3);}_0x4e8504<hardnessB3[0x0][0x6]&&computeValues4(0x0);break;case _0x78a071(0x21d):for(let _0x12c178=0x0;_0x4e8504>=hardnessC[_0x12c178][0x0]&&!(_0x12c178>0x0&&hardnessC[_0x12c178-0x1][0x0]>0x0&&hardnessC[_0x12c178][0x0]===null)&&_0x12c178<hardnessC[_0x78a071(0x1f7)];_0x12c178++){hardnessC[_0x12c178][0x0]===null&&hardnessC[_0x12c178+0x2][0x0]>=hardnessC[_0x12c178+0x1][0x0]?computeValues5(_0x12c178+0x1):computeValues5(_0x12c178);}_0x4e8504<hardnessC[0x0][0x0]&&computeValues5(0x0);break;case _0x78a071(0x221):for(let _0x25a0a9=0x0;_0x4e8504>=hardnessC[_0x25a0a9][0x1]&&!(_0x25a0a9>0x0&&hardnessC[_0x25a0a9-0x1][0x1]>0x0&&hardnessC[_0x25a0a9][0x1]===null)&&_0x25a0a9<hardnessC['\x6c\x65\x6e\x67\x74\x68'];_0x25a0a9++){hardnessC[_0x25a0a9][0x1]===null&&hardnessC[_0x25a0a9+0x2][0x1]>=hardnessC[_0x25a0a9+0x1][0x1]?computeValues5(_0x25a0a9+0x1):computeValues5(_0x25a0a9);}_0x4e8504<hardnessC[0x0][0x1]&&computeValues5(0x0);break;case _0x78a071(0x1ef):for(let _0x27e901=0x0;_0x4e8504>=hardnessC[_0x27e901][0x2]&&!(_0x27e901>0x0&&hardnessC[_0x27e901-0x1][0x2]>0x0&&hardnessC[_0x27e901][0x2]===null)&&_0x27e901<hardnessC[_0x78a071(0x1f7)];_0x27e901++){hardnessC[_0x27e901][0x2]===null&&hardnessC[_0x27e901+0x2][0x2]>=hardnessC[_0x27e901+0x1][0x2]?computeValues5(_0x27e901+0x1):computeValues5(_0x27e901);}_0x4e8504<hardnessC[0x0][0x2]&&computeValues5(0x0);break;case _0x78a071(0x21a):for(let _0x472652=0x0;_0x4e8504>=hardnessC[_0x472652][0x3]&&!(_0x472652>0x0&&hardnessC[_0x472652-0x1][0x3]>0x0&&hardnessC[_0x472652][0x3]===null)&&_0x472652<hardnessC[_0x78a071(0x1f7)];_0x472652++){hardnessC[_0x472652][0x3]===null&&hardnessC[_0x472652+0x2][0x3]>=hardnessC[_0x472652+0x1][0x3]?computeValues5(_0x472652+0x1):computeValues5(_0x472652);}_0x4e8504<hardnessC[0x0][0x3]&&computeValues5(0x0);break;case _0x78a071(0x223):for(let _0x387e21=0x0;_0x4e8504>=hardnessC[_0x387e21][0x4]&&!(_0x387e21>0x0&&hardnessC[_0x387e21-0x1][0x4]>0x0&&hardnessC[_0x387e21][0x4]===null)&&_0x387e21<hardnessC[_0x78a071(0x1f7)];_0x387e21++){hardnessC[_0x387e21][0x4]===null&&hardnessC[_0x387e21+0x2][0x4]>=hardnessC[_0x387e21+0x1][0x4]?computeValues5(_0x387e21+0x1):computeValues5(_0x387e21);}_0x4e8504<hardnessC[0x0][0x4]&&computeValues5(0x0);break;case _0x78a071(0x235):for(let _0x156f2a=0x0;_0x4e8504>=hardnessC[_0x156f2a][0x5]&&!(_0x156f2a>0x0&&hardnessC[_0x156f2a-0x1][0x5]>0x0&&hardnessC[_0x156f2a][0x5]===null)&&_0x156f2a<hardnessC[_0x78a071(0x1f7)];_0x156f2a++){hardnessC[_0x156f2a][0x5]===null&&hardnessC[_0x156f2a+0x2][0x5]>=hardnessC[_0x156f2a+0x1][0x5]?computeValues5(_0x156f2a+0x1):computeValues5(_0x156f2a);}_0x4e8504<hardnessC[0x0][0x5]&&computeValues5(0x0);break;case _0x78a071(0x1f3):for(let _0x496f3a=0x0;_0x4e8504>=hardnessC[_0x496f3a][0x6]&&!(_0x496f3a>0x0&&hardnessC[_0x496f3a-0x1][0x6]>0x0&&hardnessC[_0x496f3a][0x6]===null)&&_0x496f3a<hardnessC[_0x78a071(0x1f7)];_0x496f3a++){hardnessC[_0x496f3a][0x6]===null&&hardnessC[_0x496f3a+0x2][0x6]>=hardnessC[_0x496f3a+0x1][0x6]?computeValues5(_0x496f3a+0x1):computeValues5(_0x496f3a);}_0x4e8504<hardnessC[0x0][0x6]&&computeValues5(0x0);break;case _0x78a071(0x215):for(let _0x5a2254=0x0;_0x4e8504>=hardnessC[_0x5a2254][0x7]&&!(_0x5a2254>0x0&&hardnessC[_0x5a2254-0x1][0x7]>0x0&&hardnessC[_0x5a2254][0x7]===null)&&_0x5a2254<hardnessC['\x6c\x65\x6e\x67\x74\x68'];_0x5a2254++){hardnessC[_0x5a2254][0x7]===null&&hardnessC[_0x5a2254+0x2][0x7]>=hardnessC[_0x5a2254+0x1][0x7]?computeValues5(_0x5a2254+0x1):computeValues5(_0x5a2254);}_0x4e8504<hardnessC[0x0][0x7]&&computeValues5(0x0);break;case'\x68\x72\x62\x43':for(let _0x38194c=0x0;_0x4e8504>=hardnessC[_0x38194c][0x8]&&!(_0x38194c>0x0&&hardnessC[_0x38194c-0x1][0x8]>0x0&&hardnessC[_0x38194c][0x8]===null)&&_0x38194c<hardnessC[_0x78a071(0x1f7)];_0x38194c++){hardnessC[_0x38194c][0x8]===null&&hardnessC[_0x38194c+0x2][0x8]>=hardnessC[_0x38194c+0x1][0x8]?computeValues5(_0x38194c+0x1):computeValues5(_0x38194c);}_0x4e8504<hardnessC[0x0][0x8]&&computeValues5(0x0);break;case _0x78a071(0x214):for(let _0x4981d1=0x0;_0x4e8504>=hardnessC[_0x4981d1][0x9]&&!(_0x4981d1>0x0&&hardnessC[_0x4981d1-0x1][0x9]>0x0&&hardnessC[_0x4981d1][0x9]===null)&&_0x4981d1<hardnessC[_0x78a071(0x1f7)];_0x4981d1++){hardnessC[_0x4981d1][0x9]===null&&hardnessC[_0x4981d1+0x2][0x9]>=hardnessC[_0x4981d1+0x1][0x9]?computeValues5(_0x4981d1+0x1):computeValues5(_0x4981d1);}_0x4e8504<hardnessC[0x0][0x9]&&computeValues5(0x0);break;case _0x78a071(0x1fa):for(let _0x231fb5=0x0;_0x4e8504>=hardnessC[_0x231fb5][0xa]&&!(_0x231fb5>0x0&&hardnessC[_0x231fb5-0x1][0xa]>0x0&&hardnessC[_0x231fb5][0xa]===null)&&_0x231fb5<hardnessC[_0x78a071(0x1f7)];_0x231fb5++){hardnessC[_0x231fb5][0xa]===null&&hardnessC[_0x231fb5+0x2][0xa]>=hardnessC[_0x231fb5+0x1][0xa]?computeValues5(_0x231fb5+0x1):computeValues5(_0x231fb5);}_0x4e8504<hardnessC[0x0][0xa]&&computeValues5(0x0);break;case'\x68\x72\x33\x30\x54\x43':for(let _0x3cd93a=0x0;_0x4e8504>=hardnessC[_0x3cd93a][0xb]&&!(_0x3cd93a>0x0&&hardnessC[_0x3cd93a-0x1][0xb]>0x0&&hardnessC[_0x3cd93a][0xb]===null)&&_0x3cd93a<hardnessC[_0x78a071(0x1f7)];_0x3cd93a++){hardnessC[_0x3cd93a][0xb]===null&&hardnessC[_0x3cd93a+0x2][0xb]>=hardnessC[_0x3cd93a+0x1][0xb]?computeValues5(_0x3cd93a+0x1):computeValues5(_0x3cd93a);}_0x4e8504<hardnessC[0x0][0xb]&&computeValues5(0x0);break;case _0x78a071(0x228):for(let _0x7b48ac=0x0;_0x4e8504>=hardnessC[_0x7b48ac][0xc]&&!(_0x7b48ac>0x0&&hardnessC[_0x7b48ac-0x1][0xc]>0x0&&hardnessC[_0x7b48ac][0xc]===null)&&_0x7b48ac<hardnessC[_0x78a071(0x1f7)];_0x7b48ac++){hardnessC[_0x7b48ac][0xc]===null&&hardnessC[_0x7b48ac+0x2][0xc]>=hardnessC[_0x7b48ac+0x1][0xc]?computeValues5(_0x7b48ac+0x1):computeValues5(_0x7b48ac);}_0x4e8504<hardnessC[0x0][0xc]&&computeValues5(0x0);break;case _0x78a071(0x202):for(let _0x13ef6e=0x0;_0x4e8504>=hardnessD[_0x13ef6e][0x0]&&!(_0x13ef6e>0x0&&hardnessD[_0x13ef6e-0x1][0x0]>0x0&&hardnessD[_0x13ef6e][0x0]===null)&&_0x13ef6e<hardnessD[_0x78a071(0x1f7)];_0x13ef6e++){hardnessD[_0x13ef6e][0x0]===null&&hardnessD[_0x13ef6e+0x2][0x0]>=hardnessD[_0x13ef6e+0x1][0x0]?computeValues6(_0x13ef6e+0x1):computeValues6(_0x13ef6e);}_0x4e8504<hardnessD[0x0][0x0]&&computeValues6(0x0);break;case'\x68\x72\x63\x44':for(let _0x4012f9=0x0;_0x4e8504>=hardnessD[_0x4012f9][0x1]&&!(_0x4012f9>0x0&&hardnessD[_0x4012f9-0x1][0x1]>0x0&&hardnessD[_0x4012f9][0x1]===null)&&_0x4012f9<hardnessD['\x6c\x65\x6e\x67\x74\x68'];_0x4012f9++){hardnessD[_0x4012f9][0x1]===null&&hardnessD[_0x4012f9+0x2][0x1]>=hardnessD[_0x4012f9+0x1][0x1]?computeValues6(_0x4012f9+0x1):computeValues6(_0x4012f9);}_0x4e8504<hardnessD[0x0][0x1]&&computeValues6(0x0);break;case _0x78a071(0x20d):for(let _0x490b26=0x0;_0x4e8504>=hardnessD[_0x490b26][0x2]&&!(_0x490b26>0x0&&hardnessD[_0x490b26-0x1][0x2]>0x0&&hardnessD[_0x490b26][0x2]===null)&&_0x490b26<hardnessD[_0x78a071(0x1f7)];_0x490b26++){hardnessD[_0x490b26][0x2]===null&&hardnessD[_0x490b26+0x2][0x2]>=hardnessD[_0x490b26+0x1][0x2]?computeValues6(_0x490b26+0x1):computeValues6(_0x490b26);}_0x4e8504<hardnessD[0x0][0x2]&&computeValues6(0x0);break;case'\x68\x72\x34\x35\x4e\x44':for(let _0x21c0bf=0x0;_0x4e8504>=hardnessD[_0x21c0bf][0x3]&&!(_0x21c0bf>0x0&&hardnessD[_0x21c0bf-0x1][0x3]>0x0&&hardnessD[_0x21c0bf][0x3]===null)&&_0x21c0bf<hardnessD['\x6c\x65\x6e\x67\x74\x68'];_0x21c0bf++){hardnessD[_0x21c0bf][0x3]===null&&hardnessD[_0x21c0bf+0x2][0x3]>=hardnessD[_0x21c0bf+0x1][0x3]?computeValues6(_0x21c0bf+0x1):computeValues6(_0x21c0bf);}_0x4e8504<hardnessD[0x0][0x3]&&computeValues6(0x0);break;case _0x78a071(0x231):for(let _0x391efc=0x0;_0x4e8504>=hardnessD[_0x391efc][0x4]&&!(_0x391efc>0x0&&hardnessD[_0x391efc-0x1][0x4]>0x0&&hardnessD[_0x391efc][0x4]===null)&&_0x391efc<hardnessD['\x6c\x65\x6e\x67\x74\x68'];_0x391efc++){hardnessD[_0x391efc][0x4]===null&&hardnessD[_0x391efc+0x2][0x4]>=hardnessD[_0x391efc+0x1][0x4]?computeValues6(_0x391efc+0x1):computeValues6(_0x391efc);}_0x4e8504<hardnessD[0x0][0x4]&&computeValues6(0x0);break;case'\x68\x72\x31\x35\x4e\x44':for(let _0x57a69e=0x0;_0x4e8504>=hardnessD[_0x57a69e][0x5]&&!(_0x57a69e>0x0&&hardnessD[_0x57a69e-0x1][0x5]>0x0&&hardnessD[_0x57a69e][0x5]===null)&&_0x57a69e<hardnessD[_0x78a071(0x1f7)];_0x57a69e++){hardnessD[_0x57a69e][0x5]===null&&hardnessD[_0x57a69e+0x2][0x5]>=hardnessD[_0x57a69e+0x1][0x5]?computeValues6(_0x57a69e+0x1):computeValues6(_0x57a69e);}_0x4e8504<hardnessD[0x0][0x5]&&computeValues6(0x0);break;default:break;}}let visitCount=localStorage[_0x5a3b8a(0x233)]('\x70\x61\x67\x65\x5f\x76\x69\x65\x77');visitCount===null?visitCount=0x1:visitCount=Number(visitCount)+0x1;localStorage[_0x5a3b8a(0x238)](_0x5a3b8a(0x229),visitCount),document[_0x5a3b8a(0x236)](_0x5a3b8a(0x22b))['\x74\x65\x78\x74\x43\x6f\x6e\x74\x65\x6e\x74']=visitCount;
+const hardnessA1 = [[255, 80, 76.0, null, null, null, null, null, null, null, null],
+                    [270, 85, 80.7, 41.0, null, null, null, null, null, null, null],
+                    [285, 90, 85.5, 48.0, 82.6, null, null, null, null, null, null],
+                    [305, 95, 90.2, 52.0, 84.8, null, null, null, null, null, null],
+                    [320, 100, 95.0, 56.2, 87.0, null, null, null, null, null, null],
+                    [335, 105, 99.8, 58.6, 88.4, null, null, null, null, null, null],
+                    [350, 110, 105, 61.8, 89.8, null, null, null, null, null, null],
+                    [370, 115, 109, 63.4, 91.3, null, null, null, null, null, null],
+                    [385, 120, 114, 64.8, 92.8, null, null, null, null, null, null],
+                    [400, 125, 119, 68.2, 94.5, null, null, null, null, null, null],
+                    [415, 130, 124, 71.2, 96.4, null, null, null, null, null, null],
+                    [430, 135, 128, 73.1, 97.7, null, null, null, null, null, null],
+                    [450, 140, 133, 75.0, 99.0,  null, null, null, null, null, null],
+                    [465, 145, 138, 76.7, 100.2, null, null, null, null, null, null],
+                    [480, 150, 143, 78.7, ((101.4)), null, null, null, null, null, null],
+                    [495, 155, 147, (79.9), ((102.3)), null, null, null, null, null, null],
+                    [510, 160, 152, (81.1), ((103.2)), null, null, null, null, null, null],
+                    [530, 165, 156, (81.9), ((104.1)), null, null, null, null, null, null],
+                    [545, 170, 162, (83.6), ((105.0)), null, null, null, null, null, null],
+                    [560, 175, 166, 85.7, ((106.1)), null, null, null, null, null, null],
+                    [575, 180, 171, 87.1, ((107.2)), null, null, null, null, null, null],
+                    [595, 185, 176, (88.3), ((108.0)), null, null, null, null, null, null],
+                    [610, 190, 181, 89.5, ((108.7)), null, null, null, null, null, null],
+                    [625, 195, 185, 90.5, ((109.4)), null, null, null, null, null, null],
+                    [640, 200, 190, 91.5, ((110.1)), null, null, null, null, null, null],
+                    [660, 205, 195, 92.5, ((110.7)), null, null, null, null, null, null],
+                    [675, 210, 199, 93.5, ((111.3)), null, null, null, null, null, null],
+                    [690, 215, 204, 94.0, ((111.9)), null, null, null, null, null, null],
+                    [705, 220, 209, 95.0, ((112.4)), null, null, null, null, null, null],
+                    [720, 225, 214, 96.0, ((112.9)), null, null, null, null, null, null],
+                    [740, 230, 219, 96.7, ((113.4)), null, null, null, null, null, null],
+                    [755, 235, 223, (97.4), ((113.9)), null, null, null, null, null, null],
+                    [770, 240, 228, 98.1, ((114.3)), 20.3, 60.7, 40.3, 69.6, 41.7, 19.9],
+                    [785, 245, 233, (98.8), ((114.7)), 21.3, 61.2, 41.1, 70.1, 42.5, 21.1],
+                    [800, 250, 238, 99.5, ((115.1)), 22.2, 61.6, 41.7, 70.6, 43.4, 22.2],
+                    [820, 255, 242, (100.3), null, 23.1, 62.0, 42.2, 71.1, 44.2, 23.2],
+                    [835, 260, 247, (101), null, 24.0, 62.4, 43.1, 71.6, 45.0, 24.3], 
+                    [850, 265, 252, ((101.5)), null, 24.8, 62.7, 43.7, 72.1, 45.7, 25.2],
+                    [865, 270, 257, (102), null, 25.6, 63.1, 44.3, 72.6, 46.4, 26.2],
+                    [880, 275, 261, ((103)), null, 26.4, 63.5, 44.9, 73.0, 47.2, 27.1],
+                    [900, 280, 266, (104), null, 27.1, 63.8, 45.3, 73.4, 47.8, 27.9],
+                    [915, 285, 271, ((104.5)), null, 27.8, 64.2, 46.0, 73.8, 48.4, 28.7],
+                    [930, 290, 276, (105), null, 28.5, 64.5, 46.5, 74.2, 49.0, 29.5],
+                    [950, 295, 280, null, null, 29.2, 64.8, 47.1, 74.6, 49.7, 30.4],
+                    [965, 300, 285, null, null, 29.8, 65.2, 47.5, 74.9, 50.2, 31.1],
+                    [995, 310, 295, null, null, 31.0, 65.8, 48.4, 75.6, 51.3, 32.5],
+                    [1030, 320, 304, null, null, 32.2, 66.4, 49.4, 76.2, 52.3, 33.9],
+                    [1060, 330, 314, null, null, 33.3, 67.0, 50.2, 76.8, 53.6, 35.2],
+                    [1095, 340, 323, null, null, 34.4, 67.6, 51.1, 77.4, 54.4, 36.5],
+                    [1125, 350, 333, null, null, 35.5, 68.1, 51.9, 78.0, 55.4, 37.8],
+                    [1155, 360, 342, null, null, 36.6, 68.7, 52.8, 78.6, 56.4, 39.1],
+                    [1190, 370, 352, null, null, 37.7, 69.2, 53.6, 79.2, 57.4, 40.4],
+                    [1220, 380, 361, null, null, 38.8, 69.8, 54.4, 79.8, 58.4, 41.7],
+                    [1255, 390, 371, null, null, 39.8, 70.3, 55.3, 80.3, 59.3, 42.9],
+                    [1290, 400, 380, null, null, 40.8, 70.8, 56.0, 80.8, 60.2, 44.1],
+                    [1320, 410, 390, null, null, 41.8, 71.4, 56.8, 81.4, 61.1, 45.3],
+                    [1350, 420, 399, null, null, 42.7, 71.8, 57.5, 81.8, 61.9, 46.4],
+                    [1385, 430, 409, null, null, 43.6, 72.3, 58.2, 82.3, 62.7, 47.4],
+                    [1420, 440, 418, null, null, 44.5, 72.8, 58.8, 82.8, 63.5, 48.4],
+                    [1455, 450, 428, null, null, 45.3, 73.3, 59.4, 83.2, 64.3, 49.4],
+                    [1485, 460, 437, null, null, 46.1, 73.6, 60.1, 83.6, 64.9, 50.4],
+                    [1520, 470, 447, null, null, 46.9, 74.1, 60.7, 83.9, 65.7, 51.3],
+                    [1555, 480, 456, null, null, 47.7, 74.5, 61.3, 84.3, 66.4, 52.2],
+                    [1595, 490, 466, null, null, 48.4, 74.9, 61.6, 84.7, 67.1, 53.1],
+                    [1630, 500, 475, null, null, 49.1, 75.3, 62.2, 85.0, 67.7, 53.9],
+                    [1665, 510, 485, null, null, 49.8, 75.7, 62.9, 85.4, 68.3, 54.7],
+                    [1700, 520, 494, null, null, 50.5, 76.1, 63.5, 85.7, 69.0, 55.6],
+                    [1740, 530, 504, null, null, 51.1, 76.4, 63.9, 86.0, 69.5, 56.2],
+                    [1775, 540, 513, null, null, 51.7, 76.7, 64.4, 86.3, 70.0, 57.0],
+                    [1810, 550, 523, null, null, 52.3, 77.0, 64.8, 86.6, 70.5, 57.8],
+                    [1845, 560, 532, null, null, 53.0, 77.4, 65.4, 86.9, 71.2, 58.6],
+                    [1880, 570, 542, null, null, 53.6, 77.8, 65.8, 87.2, 71.7, 59.3],
+                    [1920, 580, 551, null, null, 54.1, 78.0, 66.2, 87.5, 72.1, 59.9],
+                    [1955, 590, 561, null, null, 54.7, 78.4, 66.7, 87.8, 72.7, 60.5],
+                    [1995, 600, 570, null, null, 55.2, 78.6, 67.0, 88.0, 73.2, 61.2],
+                    [2030, 610, 580, null, null, 55.7, 78.9, 67.5, 88.2, 73.7, 61.7],
+                    [2070, 620, 589, null, null, 56.3, 79.2, 67.9, 88.5, 74.2, 62.4],
+                    [2105, 630, 599, null, null, 56.8, 79.5, 68.3, 88.8, 74.6, 63.0],
+                    [2145, 640, 608, null, null, 57.3, 79.8, 68.7, 89.0, 75.1, 63.5],
+                    [2180, 650, 618, null, null, 57.8, 80.0, 69.0, 89.2, 75.5, 64.1],
+                    [null, 660, null, null, null, 58.3, 80.3, 69.4, 89.5, 75.9, 64.7],
+                    [null, 670, null, null, null, 58.8, 80.6, 69.8, 89.7, 76.4, 65.3],
+                    [null, 680, null, null, null, 59.2, 80.8, 70.1, 89.8, 76.8, 65.7],
+                    [null, 690, null, null, null, 59.7, 81.1, 70.5, 90.1, 77.2, 66.2],
+                    [null, 700, null, null, null, 60.1, 81.3, 70.8, 90.3, 77.6, 66.7],
+                    [null, 720, null, null, null, 61.0, 81.8, 71.5, 90.7, 78.4, 67.7],
+                    [null, 740, null, null, null, 61.8, 82.2, 72.1, 91.0, 79.1, 68.6],
+                    [null, 760, null, null, null, 62.5, 82.6, 72.6, 91.2, 79.7, 69.4],
+                    [null, 780, null, null, null, 63.3, 83.0, 73.3, 91.5, 80.4, 70.2],
+                    [null, 800, null, null, null, 64.0, 83.4, 73.8, 91.8, 81.1, 71.0],
+                    [null, 820, null, null, null, 64.7, 83.8, 74.3, 92.1, 81.7, 71.8],
+                    [null, 840, null, null, null, 65.3, 84.1, 74.8, 92.3, 82.2, 72.2],
+                    [null, 860, null, null, null, 65.9, 84.4, 75.3, 92.5, 82.7, 73.1],
+                    [null, 880, null, null, null, 66.4, 84.7, 75.7, 92.7, 83.1, 73.6],
+                    [null, 900, null, null, null, 67.0, 85.0, 76.1, 92.9, 83.6, 74.2],
+                    [null, 920, null, null, null, 67.5, 85.3, 76.5, 93.0, 84.0, 74.8],
+                    [null, 940, null, null, null, 68.0, 85.6, 76.9, 93.2, 84.4, 75.4]
+    ];
+
+const hardnessB1 = [[210, 205, (15.3), 57.2, 13.4, 36.1, 65.2, 94.8, (110.4), 65.4, 76.8, 89.2, 651],
+                    [220, 215, (17.4), 58.4, 15.9, 38.1, 66.5, 96.7, (111.4), 67.6, 78.5, 90.0, 683],
+                    [230, 225, (19.3), 59.6, 18.2, 40.4, 67.8, 98.4, (112.4), 69.6, 80.0, 90.8, 716],
+                    [240, 235, 21.2, 60.6, 20.4, 41.8, 68.9, 100.0, (113.3), 71.4, 81.4, 91.4, 748],
+                    [250, 245, 22.9, 61.6, 22.5, 43.4, 70.0, (101.4), (114.1), (73.0), 82.5, 92.0, 781],
+                    [260, 255, 24.6, 62.5, 24.4, 45.0, 71.0, (102.7), (114.9), (74.4), 83.6, 92.5, 813],
+                    [270, 266, 26.2, 63.4, 26.3, 46.5, 72.0, (103.9), (115.6), (75.7), 84.5, 93.0, 845],
+                    [280, 276, 27.7, 64.3, 28.1, 47.9, 72.9, (105.0), (116.2), (76.9), 85.4, 93.4, 877],
+                    [290, 286, 29.1, 65.0, 29.8, 49.3, 73.7, (106.0), (116.8), (77.9), 86.1, 93.7, 909],
+                    [300, 296, 30.5, 65.8, 31.4, 50.5, 74.5, (106.9), (117.3), (78.9), 86.8, 94.0, 940],
+                    [310, 306, 31.8, 66.5, 32.9, 51.8, 75.3, (107.7), (117.8), (79.7), 87.4, (94.3), 972],
+                    [320, 316, 33.1, 67.2, 34.4, 52.9, 76.0, (108.5), (118.3), (80.5), 88.0, (94.6), 1003],
+                    [330, 326, 34.3, 67.8, 35.8, 54.0, 76.7, (109.2), (118.8), (81.2), 88.4, (94.8), 1035],
+                    [340, 336, 35.4, 68.5, 37.2, 55.1, 77.3, (109.9), (119.2), (81.9), 88.9, (95.0), 1070],
+                    [350, 345, 36.5, 69.1, 38.4, 56.1, 78.0, (110.5), (119.6), (82.5), 89.3, (95.2), 1097],
+                    [360, 355, 37.6, 69.6, 39.7, 57.1, 78.6, (111.1), (119.9), (83.0), 89.6, (95.4), 1128],
+                    [370, 365, 38.6, 70.2, 40.9, 58.0, 79.1, (111.7), (120.3), (83.5), 89.9, (95.5), 1159],
+                    [380, 375, 39.6, 70.7, 42.0, 58.9, 79.7, (112.2), (120.6), (84.0), 90.2, (95.6), 1189],
+                    [390, 385, 40.6, 71.2, 43.2, 59.8, 80.2, (112.7), (120.9), (84.4), 90.5, (95.7), 1220],
+                    [400, 395, 41.5, 71.7, 44.2, 60.6, 80.7, (113.1), (121.2), (84.8), 90.7, (95.8), 1250],
+                    [410, 405, 42.4, 72.2, 45.3, 61.4, 81.2, (113.6), (121.5), (85.1), 90.9, (95.9), 1281],
+                    [420, 414, 43.2, 72.6, 46.3, 62.2, 81.6, null, null, null, null, null, 1311],
+                    [430, 424, 44.1, 73.0, 47.2, 63.0, 82.1, null, null, null, null, null, 1341],
+                    [440, 434, 44.9, 73.5, 48.2, 63.7, 82.5, null, null, null, null, null, 1371],
+                    [450, 444, 45.7, 73.9, 49.1, 64.4, 82.0, null, null, null, null, null, 1401],
+                    [460, 453, 46.4, 74.3, 50.0, 65.1, 83.3, null, null, null, null, null, 1430],
+                    [470, 463, 47.2, 74.6, 50.8, 65.8, 83.7, null, null, null, null, null, 1460],
+                    [480, 473, 47.9, 75.0, 51.7, 66.4, 84.1, null, null, null, null, null, null],
+                    [490, 482, 48.6, 75.4, 52.5, 67.0, 84.4, null, null, null, null, null, null],
+                    [500, 492, 49.2, 75.7, 53.2, 67.6, 84.8, null, null, null, null, null, null],
+                    [510, 501, 49.9, 76.0, 54.0, 68.2, 85.1, null, null, null, null, null, null],
+                    [520, 511, 50.5, 76.4, 54.8, 68.8, 85.4, null, null, null, null, null, null],
+                    [530, 520, 51.2, 76.7, 55.5, 69.3, 85.8, null, null, null, null, null, null],
+                    [540, 530, 51.8, 77.0, 56.2, 69.9, 86.1, null, null, null, null, null, null],
+                    [550, 539, 52.4, 77.3, 56.8, 70.4, 86.4, null, null, null, null, null, null],
+                    [560, 549, 52.9, 77.6, 57.5, 70.9, 86.6, null, null, null, null, null, null],
+                    [570, 558, 53.5, 77.9, 58.2, 71.4, 86.9, null, null, null, null, null, null],
+                    [580, 568, 54.0, 78.2, 58.8, 71.9, 87.2, null, null, null, null, null, null],
+                    [590, 577, 54.6, 78.4, 59.4, 72.4, 87.5, null, null, null, null, null, null],
+                    [600, 586, 55.1, 78.7, 60.0, 72.8, 87.7, null, null, null, null, null, null],
+                    [610, 596, 55.6, 78.9, 60.6, 73.3, 88.0, null, null, null, null, null, null],
+                    [620, 605, 56.1, 79.2, 61.2, 73.7, 88.2, null, null, null, null, null, null],
+                    [630, 614, 56.6, 79.4, 61.7, 74.2, 88.5, null, null, null, null, null, null],
+                    [640, 623, 57.1, 79.7, 62.3, 74.6, 88.7, null, null, null, null, null, null],
+                    [650, 632, 57.5, 79.9, 62.8, 75.0, 88.9, null, null, null, null, null, null]
+];
+
+const hardnessB2 = [[140, null, null, null, null, null, null, null, null, null, null, null, 460],
+                    [150, 152, null, (48.4), null, (21.5), (56.6), 81.0, 102.5, 51.6, 68.4, 85.1, 503],
+                    [160, 162, (1.0), (50.2), null, (24.4), (58.3), 83.9, 104.1, 54.8, 70.5, 86.2, 544],
+                    [170, 173, (4.0), (51.9), (0.8), (27.0), (60.0), 86.6, 105.6, 57.7, 72.4, 87.2, 585],
+                    [180, 183, (6.8), (53.4), (4.0), (29.5), (61.5), 89.0, 106.9, 60.2, 74.1, 88.0, 624],
+                    [190, 193, (9.4), (54.8), (7.0), (31.8), (62.9), 91.2, 108.1, 62.5, 75.6, 88.8, 661],
+                    [200, 203, (11.9), (56.2), (9.9), (34.0), (64.3), 93.2, 109.2, 64.6, 77.0, 89.4, 697],
+                    [210, 214, (14.2), (57.4), (12.6), (36.1), (65.6), 95.0, 110.3, 66.4, 78.3, 90.0, 732],
+                    [220, 223, (16.4), (58.6), (15.1), (38.1), 66.8, 96.7, 111.2, 68.2, 79.5, 90.6, 765],
+                    [230, 233, (18.5), (59.7), 17.6, 39.9, 67.9, 98.3, 112.2, 69.7, 80.6, 91.1, 796],
+                    [240, 243, 20.5, 60.7, 19.9, 41.7, 69.0, 99.8, 113.0, 71.2, 81.6, 91.6, 826],
+                    [250, 252, 22.4, 61.7, 22.1, 43.3, 70.0, (101.2), 113.8, (72.5), (82.6), 92.0, null],
+                    [260, 262, 24.3, 62.6, 24.2, 44.9, 71.0, (102.5), 114.6, (73.7), (83.5), 92.4, null],
+                    [270, 271, 26.0, 63.5, 26.2, 46.4, 72.0, (103.7), (115.3), (74.9), (84.3), 92.7, null],
+                    [280, 280, 27.7, 64.3, 28.1, 47.9, 72.9, (104.9), (116.0), (75.9), (85.1), 93.0, null],
+                    [290, 289, 29.2, 65.1, 29.9, 49.2, 73.7, (106.0), (116.6), (76.9), (85.8), (93.3), null],
+                    [300, 298, 30.8, 65.8, 31.6, 50.6, 74.6, (107.0), (117.2), (77.9), (86.5), (93.6), null],
+                    [310, 307, 32.2, 66.6, 33.6, 51.8, 75.4, (108.0), (117.8), (78.8), (87.1), (93.9), null],
+                    [320, 316, 33.6, 67.2, 35.0, 53.0, 76.1, (108.9), (118.4), (79.6), (87.8), (94.1), null]
+];
+
+const hardnessB3 = [[580, 572, 54.0, 78.1, 59.5, 71.4, 87.2],
+                  [590, 576, 54.4, 78.4, 59.6, 71.9, 87.4],
+                  [600, 580, 54.8, 78.6, 59.9, 72.3, 87.6],
+                  [610, 585, 55.2, 78.8, 60.2, 72.8, 87.8],
+                  [620, 591, 55.6, 79.1, 60.5, 73.2, 88.0],
+                  [630, 597, 56.1, 79.3, 60.9, 73.6, 88.2],
+                  [640, 604, 56.5, 79.6, 61.4, 74.1, 88.4],
+                  [650, 611, 56.9, 79.8, 61.8, 74.5, 88.7],
+                  [660, 619, 57.4, 80.1, 62.4, 75.0, 88.9],
+                  [670, 627, 57.8, 80.3, 63.0, 75.4, 89.1],
+                  [680, 636, 58.3, 80.6, 63.6, 75.8, 89.4],
+                  [690, 646, 58.7, 80.9, 64.2, 76.2, 89.6],
+                  [700, 656, 59.2, 81.1, 64.9, 76.7, 89.8],
+                  [710, 666, 59.7, 81.4, 65.6, 77.1, 90.1],
+                  [720, 677, 60.1, 81.7, 66.4, 77.5, 90.3]
+];
+
+const hardnessC = [[210, 212, 205, null, null, null, null, null, 95.6, (110.7), 66.9, 78.0, 90.2],
+                   [220, 222, 215, (18.8), 59.4, (16.4), (38.8), (67.0), 97.2, (111.6), 68.6, 79.1, 90.7],
+                   [230, 232, 225, 20.6, 60.3, (18.7), (40.5), (68.2), 98.7, (112.5), 70.2, 80.1, 91.2],
+                   [240, 242, 235, 22.2, 61.2, 20.9, 42.2, (69.3), 100.1, (113.3), 71.6, 81.0, 91.7],
+                   [250, 252, 245, 23.9, [62.5], 23.0, 43.8, 70.3, (101.4), (114.0), 72.9, 81.9, 92.1],
+                   [260, 262, 255, 25.4, 62.8, 24.9, 45.3, 71.3, (102.6), (114.7), 74.1, (82.7), 92.5],
+                   [270, 272, 265, 26.9, 63.6, 26.8, 46.8, 72.2, (103.7), (115.3), 75.2, (83.5), 92.9],
+                   [280, 282, 275, 28.3, 64.4, 28.6, 48.2, 73.1, (104.7), (115.9), 76.3, (84.2), (93.3)],
+                   [290, 293, 285, 29.7, 65.1, 30.2, 49.5, 73.9, (105.6), (116.4), 77.3, (84.8), (93.6)],
+                   [300, 303, 295, 31.0, 65.8, 31.9, 50.7, 74.7, (106.5), (116.9), 78.2, (85.5), (93.9)],
+                   [310, 313, 304, 32.3, 66.4, 33.4, 51.9, 75.4, (107.3), (117.4), 79.1, (86.0), (94.2)],
+                   [320, 323, 314, 33.5, 67.1, 34.9, 53.0, 76.1, (108.1), (117.8), 79.9, (86.6), (94.5)],
+                   [330, 333, 324, 34.6, 67.7, 36.3, 54.1, 76.8, (108.8), (118.2), 80.6, (87.1), (94.8)],
+                   [340, 343, 334, 35.8, 68.3, 37.6, 55.2, 77.4, (109.5), (118.6), 81.4, (87.6), (95.0)],
+                   [350, 353, 344, 36.8, 68.8, 39.0, 56.2, 78.0, null, null, null, null, null],
+                   [360, 363, 354, 37.9, 69.4, 40.2, 57.2, 78.6, null, null, null, null, null],
+                   [370, 373, 363, 38.9, 69.9, 41.4, 58.1, 79.2, null, null, null, null, null],
+                   [380, 383, 373, 39.9, 70.4, 42.6, 59.0, 79.7, null, null, null, null, null],
+                   [390, 393, 383, 40.8, 71.0, 43.7, 59.9, 80.2, null, null, null, null, null],
+                   [400, 404, 392, 41.7, 71.4, 44.8, 60.7, 80.7, null, null, null, null, null],
+                   [410, 414, 402, 42.6, 71.9, 45.8, 61.5, 81.2, null, null, null, null, null],
+                   [420, 424, 412, 43.5, 72.4, 46.9, 62.3, 81.6, null, null, null, null, null],
+                   [430, 434, 422, 44.3, 72.8, 47.8, 63.1, 82.1, null, null, null, null, null],
+                   [440, 444, 431, 45.1, 73.3, 48.8, 63.8, 82.5, null, null, null, null, null],
+                   [450, 454, 441, 45.9, 73.7, 49.7, 64.5, 82.9, null, null, null, null, null],
+                   [460, 464, 450, 46.7, 74.1, 50.5, 65.2, 83.3, null, null, null, null, null],
+                   [470, 474, 460, 47.4, 74.5, 51.4, 65.8, 83.7, null, null, null, null, null],
+                   [480, 484, 469, 48.2, 74.9, 52.2, 66.5, 84.0, null, null, null, null, null],
+                   [490, 494, 479, 48.9, 75.3, 53.1, 67.1, 84.4, null, null, null, null, null],
+                   [500, 505, 488, 49.5, 75.6, 53.9, 67.7, 84.7, null, null, null, null, null],
+                   [510, 515, 498, 50.2, 76.0, 54.6, 68.3, 85.1, null, null, null, null, null],
+                   [520, 525, 507, 50.9, 76.4, 55.4, 68.9, 85.4, null, null, null, null, null],
+                   [530, 535, 517, 51.6, 76.7, 56.2, 69.5, 85.7, null, null, null, null, null],
+                   [540, 545, 526, 52.1, 77.0, 56.8, 70.0, 86.0, null, null, null, null, null],
+                   [550, 555, 535, 52.7, 77.4, 57.6, 70.6, 86.3, null, null, null, null, null],
+                   [560, 565, 545, 53.3, 77.7, 58.2, 71.1, 86.6, null, null, null, null, null],
+                   [570, 575, 554, 53.9, 78.0, 58.9, 71.6, 86.9, null, null, null, null, null, null, null],
+                   [580, 585, 563, 54.5, 78.3, 59.6, 72.1, 87.1, null, null, null, null, null, null, null],
+                   [590, 595, 572, 55.0, 78.6, 60.2, 72.6, 87.4, null, null, null, null, null, null, null],
+                   [600, 606, 582, 55.6, 78.9, 60.8, 73.0, 87.7, null, null, null, null, null, null, null],
+                   [610, 616, 591, 56.1, 79.2, 61.4, 73.5, 87.9, null, null, null, null, null, null, null],
+                   [620, 626, 600, 56.6, 79.5, 62.0, 74.0, 88.2, null, null, null, null, null, null, null],
+                   [630, 636, null, 57.1, 79.8, 62.6, 74.4, 88.4, null, null, null, null, null, null, null],
+                   [640, 646, null, 57.6, 80.0, 63.2, 74.8, 88.6, null, null, null, null, null, null, null],
+                   [650, 656, null, 58.1, 80.3, 63.7, 75.3, 88.8, null, null, null, null, null, null, null],
+                   [660, 666, null, 58.6, 80.6, 64.3, 75.7, 89.1, null, null, null, null, null, null, null],
+                   [670, 676, null, 59.0, 80.8, 64.8, 76.1, 89.3, null, null, null, null, null, null, null],
+                   [680, 686, null, 59.5, 81.0, 65.3, 76.5, 89.5, null, null, null, null, null, null, null],
+                   [690, 697, null, 59.9, 81.3, 65.8, 76.9, 89.7, null, null, null, null, null, null, null],
+                   [700, 707, null, 60.4, 81.5, 66.3, 77.3, 89.9, null, null, null, null, null, null, null],
+                   [710, 717, null, 60.8, 81.8, 66.8, 77.7, 90.1, null, null, null, null, null, null, null],
+                   [720, 727, null, 61.2, 82.0, 67.3, 78.0, 90.3, null, null, null, null, null, null, null],
+                   [730, 737, null, 61.6, 82.2, 67.8, 78.4, 90.5, null, null, null, null, null, null, null],
+                   [740, 747, null, 62.0, 82.5, 68.2, 78.8, 90.7, null, null, null, null, null, null, null],
+                   [750, 757, null, 62.4, 82.7, 68.7, 79.1, 90.8, null, null, null, null, null, null, null],
+                   [760, 767, null, 62.8, 82.9, 69.1, 79.4, 91.0, null, null, null, null, null, null, null],
+                   [770, 777, null, 63.2, 83.1, 69.6, 79.8, 91.2, null, null, null, null, null, null, null],
+                   [780, 788, null, 63.6, 83.3, 70.0, 80.1, 91.4, null, null, null, null, null, null, null],
+                   [790, 798, null, 64.0, 83.5, 70.4, 80.4, 91.5, null, null, null, null, null, null, null],
+                   [800, 808, null, 64.4, 83.7, 70.8, 80.8, 91.7, null, null, null, null, null, null, null],
+                   [810, 818, null, 64.7, 83.9, 71.3, 81.1, 91.9, null, null, null, null, null, null, null],
+                   [820, 828, null, 65.1, 84.1, 71.7, 81.4, 92.0, null, null, null, null, null, null, null],
+                   [830, 838, null, 65.4, 84.3, 72.1, 81.7, 92.2, null, null, null, null, null, null, null],
+                   [840, 848, null, 65.8, 84.5, 72.4, 82.9, 92.3, null, null, null, null, null, null, null]
+];
+
+const hardnessD = [[580, 54.2, 77.9, 58.8, 71.7, 87.1],
+                    [590, 54.7, 78.2, 59.4, 72.2, 87.4],
+                    [600, 55.2, 78.5, 60.0, 72.6, 87.6],
+                    [610, 55.7, 78.7, 60.6, 73.1, 87.8],
+                    [620, 56.2, [79.0], 61.1, 73.5, 88.1],
+                    [630, 56.6, 79.3, 61.7, 74.0, 88.3],
+                    [640, 57.1, 79.6, 62.2, 74.4, 88.5],
+                    [650, 57.6, 79.8, 62.8, 74.8, 88.7],
+                    [660, 58.0, 80.1, 63.3, 75.2, 88.9],
+                    [670, 58.5, 80.3, 63.8, 75.6, 89.1],
+                    [680, 58.9, 80.6, 64.3, 76.0, 89.3],
+                    [690, 59.3, 80.8, 64.8, 76.4, 89.5],
+                    [700, 59.7, 81.0, 65.3, 76.7, 89.7],
+                    [710, 60.2, 81.3, 65.8, 77.1, 89.9],
+                    [720, 60.6, 81.5, 66.3, 77.4, 90.1],
+                    [730, 61.0, 81.7, 66.7, 77.8, 90.2],
+                    [740, 61.4, 82.0, 67.2, 78.1, 90.4],
+                    [750, 61.8, 82.2, 67.6, 78.5, 90.6],
+                    [760, 62.1, 82.4, 68.1, 78.8, 90.7],
+                    [770, 62.5, 82.6, 68.5, 79.1, 90.9],
+                    [780, 62.9, 82.8, 68.9, 79.5, 91.0],
+                    [790, 63.3, 83.0, 69.4, 79.8, 91.2],
+                    [800, 63.6, 83.2, 69.8, 80.1, 91.3],
+                    [810, 64.0, 83.5, 70.2, 80.4, 91.5],
+                    [820, 64.3, 83.6, 70.6, 80.7, 91.6],
+                    [830, 64.7, 83.8, 71.0, 81.0, 91.8],
+                    [840, 65.0, 84.0, 71.4, 81.3, 91.9],
+                    [850, 65.4, 84.2, 71.7, 81.6, 92.0],
+                    [860, 65.7, 84.4, 72.1, 81.8, 92.2],
+                    [870, 66.0, 84.6, 72.5, 82.1, 92.3],
+                    [880, 66.3, 84.8, 72.8, 82.4, 92.4],
+                    [890, 66.7, 85.0, 73.2, 82.7, 92.5],
+                    [900, 67.0, [85.1], 73.6, 82.9, 92.6],
+                    [910, 67.3, 85.3, 73.9, 83.2, 92.8],
+                    [920, 67.6, 85.5, 74.2, 83.4, 92.9]
+    ];
+ 
+const tsA1El = document.getElementById("tsA1");
+const hv10A1El = document.getElementById("hv10A1");
+const hbA1El = document.getElementById("hbA1");
+const hrbA1El = document.getElementById("hrbA1");
+const hrfA1El = document.getElementById("hrfA1");
+const hrcA1El = document.getElementById("hrcA1");
+const hraA1El = document.getElementById("hraA1");
+const hrdA1El = document.getElementById("hrdA1");
+const hr15NA1El = document.getElementById("hr15NA1");
+const hr30NA1El = document.getElementById("hr30NA1");
+const hr45NA1El = document.getElementById("hr45NA1");
+
+const hvB1El = document.getElementById("hvB1");
+const hbwB1El = document.getElementById("hbwB1");
+const hrcB1El = document.getElementById("hrcB1");
+const hraB1El = document.getElementById("hraB1");
+const hr45NB1El = document.getElementById("hr45NB1");
+const hr30NB1El = document.getElementById("hr30NB1");
+const hr15NB1El = document.getElementById("hr15NB1");
+const hrbB1El = document.getElementById("hrbB1");
+const hrfB1El = document.getElementById("hrfB1");
+const hr45TB1El = document.getElementById("hr45TB1");
+const hr30TB1El = document.getElementById("hr30TB1");
+const hr15TB1El = document.getElementById("hr15TB1");
+const tsB1El = document.getElementById("tsB1");
+
+const hvB2El = document.getElementById("hvB2");
+const hbwB2El = document.getElementById("hbwB2");
+const hrcB2El = document.getElementById("hrcB2");
+const hraB2El = document.getElementById("hraB2");
+const hr45NB2El = document.getElementById("hr45NB2");
+const hr30NB2El = document.getElementById("hr30NB2");
+const hr15NB2El = document.getElementById("hr15NB2");
+const hrbB2El = document.getElementById("hrbB2");
+const hrfB2El = document.getElementById("hrfB2");
+const hr45TB2El = document.getElementById("hr45TB2");
+const hr30TB2El = document.getElementById("hr30TB2");
+const hr15TB2El = document.getElementById("hr15TB2");
+const tsB2El = document.getElementById("tsB2");
+
+const hvB3El = document.getElementById("hvB3");
+const hbwB3El = document.getElementById("hbwB3");
+const hrcB3El = document.getElementById("hrcB3");
+const hraB3El = document.getElementById("hraB3");
+const hr45NB3El = document.getElementById("hr45NB3");
+const hr30NB3El = document.getElementById("hr30NB3");
+const hr15NB3El = document.getElementById("hr15NB3");
+
+const hvCEl = document.getElementById("hvC");
+const hv5CEl = document.getElementById("hv5C");
+const hbCEl = document.getElementById("hbC");
+const hrcCEl = document.getElementById("hrcC");
+const hraCEl = document.getElementById("hraC");
+const hr45NCEl = document.getElementById("hr45NC");
+const hr30NCEl = document.getElementById("hr30NC");
+const hr15NCEl = document.getElementById("hr15NC");
+const hrbCEl = document.getElementById("hrbC");
+const hrfCEl = document.getElementById("hrfC");
+const hr45TCEl = document.getElementById("hr45TC");
+const hr30TCEl = document.getElementById("hr30TC");
+const hr15TCEl = document.getElementById("hr15TC");
+
+const hvDEl = document.getElementById("hvD");
+const hrcDEl = document.getElementById("hrcD");
+const hraDEl = document.getElementById("hraD");
+const hr45NDEl = document.getElementById("hr45ND");
+const hr30NDEl = document.getElementById("hr30ND");
+const hr15NDEl = document.getElementById("hr15ND");
+
+function computeValues(r) {
+    tsA1El.value = hardnessA1[r][0];
+    hv10A1El.value = hardnessA1[r][1];
+    hbA1El.value = hardnessA1[r][2];
+    hrbA1El.value = hardnessA1[r][3];
+    hrfA1El.value = hardnessA1[r][4];
+    hrcA1El.value = hardnessA1[r][5];
+    hraA1El.value = hardnessA1[r][6];
+    hrdA1El.value = hardnessA1[r][7];
+    hr15NA1El.value = hardnessA1[r][8];
+    hr30NA1El.value = hardnessA1[r][9];
+    hr45NA1El.value = hardnessA1[r][10];
+}
+
+function computeValues2(r) {    
+    hvB1El.value = hardnessB1[r][0];
+    hbwB1El.value = hardnessB1[r][1];
+    hrcB1El.value = hardnessB1[r][2];
+    hraB1El.value = hardnessB1[r][3];
+    hr45NB1El.value = hardnessB1[r][4];
+    hr30NB1El.value = hardnessB1[r][5];
+    hr15NB1El.value = hardnessB1[r][6];
+    hrbB1El.value = hardnessB1[r][7];
+    hrfB1El.value = hardnessB1[r][8];
+    hr45TB1El.value = hardnessB1[r][9];
+    hr30TB1El.value = hardnessB1[r][10];
+    hr15TB1El.value = hardnessB1[r][11];
+    tsB1El.value = hardnessB1[r][12];
+}
+
+function computeValues3(r) {    
+    hvB2El.value = hardnessB2[r][0];
+    hbwB2El.value = hardnessB2[r][1];
+    hrcB2El.value = hardnessB2[r][2];
+    hraB2El.value = hardnessB2[r][3];
+    hr45NB2El.value = hardnessB2[r][4];
+    hr30NB2El.value = hardnessB2[r][5];
+    hr15NB2El.value = hardnessB2[r][6];
+    hrbB2El.value = hardnessB2[r][7];
+    hrfB2El.value = hardnessB2[r][8];
+    hr45TB2El.value = hardnessB2[r][9];
+    hr30TB2El.value = hardnessB2[r][10];
+    hr15TB2El.value = hardnessB2[r][11];
+    tsB2El.value = hardnessB2[r][12];
+}
+
+function computeValues4(r) {    
+    hvB3El.value = hardnessB3[r][0];
+    hbwB3El.value = hardnessB3[r][1];
+    hrcB3El.value = hardnessB3[r][2];
+    hraB3El.value = hardnessB3[r][3];
+    hr45NB3El.value = hardnessB3[r][4];
+    hr30NB3El.value = hardnessB3[r][5];
+    hr15NB3El.value = hardnessB3[r][6];
+}
+
+function computeValues5(r) {    
+    hvCEl.value = hardnessC[r][0];
+    hv5CEl.value = hardnessC[r][1];
+    hbCEl.value = hardnessC[r][2];
+    hrcCEl.value = hardnessC[r][3];
+    hraCEl.value = hardnessC[r][4];
+    hr45NCEl.value = hardnessC[r][5];
+    hr30NCEl.value = hardnessC[r][6];
+    hr15NCEl.value = hardnessC[r][7];
+    hrbCEl.value = hardnessC[r][8];
+    hrfCEl.value = hardnessC[r][9];
+    hr45TCEl.value = hardnessC[r][10];
+    hr30TCEl.value = hardnessC[r][11];
+    hr15TCEl.value = hardnessC[r][12];
+}
+
+function computeValues6(r) {    
+    hvDEl.value = hardnessD[r][0];
+    hrcDEl.value = hardnessD[r][1];
+    hraDEl.value = hardnessD[r][2];
+    hr45NDEl.value = hardnessD[r][3];
+    hr30NDEl.value = hardnessD[r][4];
+    hr15NDEl.value = hardnessD[r][5];
+    }
+    
+function computeHard(event) {
+    const currentValue = +event.target.value;    
+    switch (event.target.name) {
+        case "tsA1":
+            for (let i=0; currentValue>=hardnessA1[i][0] && !(i>0 && hardnessA1[i-1][0]>0 && hardnessA1[i][0]===null) 
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][0] === null && (hardnessA1[i+2][0] >= hardnessA1[i+1][0])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }
+            }
+            if (currentValue<hardnessA1[0][0]) {
+                    computeValues(0);
+                }
+            break;
+        case "hv10A1":
+            for (let i=0; currentValue>=hardnessA1[i][1] && !(i>0 && hardnessA1[i-1][1]>0 && hardnessA1[i][1]===null) 
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][1] === null && (hardnessA1[i+2][1] >= hardnessA1[i+1][1])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][1]) {
+                    computeValues(0);
+                }
+            break;
+        case "hbA1":
+            for (let i=0; currentValue>=hardnessA1[i][2] && !(i>0 && hardnessA1[i-1][2]>0 && hardnessA1[i][2]===null) 
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[0][2] === null && (hardnessA1[i+2][2] >= hardnessA1[i+1][2])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }
+            }
+            if (currentValue<hardnessA1[0][2]) {
+                    computeValues(0);
+                }
+            break;
+        case "hrbA1":
+            for (let i=0; currentValue>=hardnessA1[i][3] && !(i>0 && hardnessA1[i-1][3]>0 && hardnessA1[i][3]===null) 
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][3] === null && (hardnessA1[i+2][3] >= hardnessA1[i+1][3])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][3]) {
+                    computeValues(0);
+                }
+            break;
+        case "hrfA1":
+            for (let i=0; currentValue>=hardnessA1[i][4] && !(i>0 && hardnessA1[i-1][4]>0 && hardnessA1[i][4]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][4] === null && (hardnessA1[i+2][4] >= hardnessA1[i+1][4])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][4]) {
+                    computeValues(0);
+                }
+            break;
+        case "hrcA1":
+            for (let i=0; currentValue>=hardnessA1[i][5] && !(i>0 && hardnessA1[i-1][5]>0 && hardnessA1[i][5]===null) 
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][5] === null && (hardnessA1[i+2][5] >= hardnessA1[i+1][5])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][5]) {
+                    computeValues(0);
+                }
+            break;
+        case "hraA1":
+            for (let i=0; currentValue>=hardnessA1[i][6] && !(i>0 && hardnessA1[i-1][6]>0 && hardnessA1[i][6]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][6] === null && (hardnessA1[i+2][6] >= hardnessA1[i+1][6])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][6]) {
+                    computeValues(0);
+                }
+            break;
+        case "hrdA1":
+            for (let i=0; currentValue>=hardnessA1[i][7] && !(i>0 && hardnessA1[i-1][7]>0 && hardnessA1[i][7]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][7] === null && (hardnessA1[i+2][7] >= hardnessA1[i+1][7])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][7]) {
+                    computeValues(0);
+                }
+            break;
+        case "hr15NA1":
+            for (let i=0; currentValue>=hardnessA1[i][8] && !(i>0 && hardnessA1[i-1][8]>0 && hardnessA1[i][8]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][8] === null && (hardnessA1[i+2][8] >= hardnessA1[i+1][8])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][8]) {
+                    computeValues(0);
+                }
+            break;
+        case "hr30NA1":
+            for (let i=0; currentValue>=hardnessA1[i][9] && !(i>0 && hardnessA1[i-1][9]>0 && hardnessA1[i][9]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][9] === null && (hardnessA1[i+2][9] >= hardnessA1[i+1][9])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][9]) {
+                    computeValues(0);
+                }
+            break;
+        case "hr45NA1":
+            for (let i=0; currentValue>=hardnessA1[i][10] && !(i>0 && hardnessA1[i-1][10]>0 && hardnessA1[i][10]===null)
+                    && i<hardnessA1.length; i++) {
+                if (hardnessA1[i][10] === null && (hardnessA1[i+2][10] >= hardnessA1[i+1][10])) {
+                    computeValues(i+1);
+                } else {
+                    computeValues(i);
+                }  
+            }
+            if (currentValue<hardnessA1[0][10]) {
+                    computeValues(0);
+                }      
+            break;
+            
+        case "hvB1":
+            for (let i=0; currentValue>=hardnessB1[i][0] && !(i>0 && hardnessB1[i-1][0]>0 && hardnessB1[i][0]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][0] === null && (hardnessB1[i+2][0] >= hardnessB1[i+1][0])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }            
+            }
+            if (currentValue<hardnessB1[0][0]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hbwB1":
+            for (let i=0; currentValue>=hardnessB1[i][1] && !(i>0 && hardnessB1[i-1][1]>0 && hardnessB1[i][1]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][1] === null && (hardnessB1[i+2][1] >= hardnessB1[i+1][1])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][1]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hrcB1":
+            for (let i=0; currentValue>=hardnessB1[i][2] && !(i>0 && hardnessB1[i-1][2]>0 && hardnessB1[i][2]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][2] === null && (hardnessB1[i+2][2] >= hardnessB1[i+1][2])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][2]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hraB1":
+            for (let i=0; currentValue>=hardnessB1[i][3] && !(i>0 && hardnessB1[i-1][3]>0 && hardnessB1[i][3]===null)
+                 && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][3] === null && (hardnessB1[i+2][3] >= hardnessB1[i+1][3])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][3]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr45NB1":
+            for (let i=0; currentValue>=hardnessB1[i][4] && !(i>0 && hardnessB1[i-1][4]>0 && hardnessB1[i][4]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][4] === null && (hardnessB1[i+2][4] >= hardnessB1[i+1][4])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][4]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr30NB1":
+            for (let i=0; currentValue>=hardnessB1[i][5] && !(i>0 && hardnessB1[i-1][5]>0 && hardnessB1[i][5]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][5] === null && (hardnessB1[i+2][5] >= hardnessB1[i+1][5])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][5]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr15NB1":
+            for (let i=0; currentValue>=hardnessB1[i][6] && !(i>0 && hardnessB1[i-1][6]>0 && hardnessB1[i][6]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][6] === null && (hardnessB1[i+2][6] >= hardnessB1[i+1][6])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][6]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hrbB1":
+            for (let i=0; currentValue>=hardnessB1[i][7] && !(i>0 && hardnessB1[i-1][7]>0 && hardnessB1[i][7]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][7] === null && (hardnessB1[i+2][7] >= hardnessB1[i+1][7])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][7]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hrfB1":
+            for (let i=0; currentValue>=hardnessB1[i][8] && !(i>0 && hardnessB1[i-1][8]>0 && hardnessB1[i][8]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][8] === null && (hardnessB1[i+2][8] >= hardnessB1[i+1][8])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][8]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr45TB1":
+            for (let i=0; currentValue>=hardnessB1[i][9] && !(i>0 && hardnessB1[i-1][9]>0 && hardnessB1[i][9]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][9] === null && (hardnessB1[i+2][9] >= hardnessB1[i+1][9])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][9]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr30TB1":
+            for (let i=0; currentValue>=hardnessB1[i][10] && !(i>0 && hardnessB1[i-1][10]>0 && hardnessB1[i][10]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][10] === null && (hardnessB1[i+2][10] >= hardnessB1[i+1][10])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][10]) {
+                    computeValues2(0);
+                }
+            break;
+        case "hr15TB1":
+            for (let i=0; currentValue>=hardnessB1[i][11] && !(i>0 && hardnessB1[i-1][11]>0 && hardnessB1[i][11]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][11] === null && (hardnessB1[i+2][11] >= hardnessB1[i+1][11])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][11]) {
+                    computeValues2(0);
+                }
+            break;
+        case "tsB1":
+            for (let i=0; currentValue>=hardnessB1[i][12] && !(i>0 && hardnessB1[i-1][12]>0 && hardnessB1[i][12]===null)
+                    && i<hardnessB1.length; i++) {
+                if (hardnessB1[i][12] === null && (hardnessB1[i+2][12] >= hardnessB1[i+1][12])) {
+                    computeValues2(i+1);
+                } else {
+                    computeValues2(i);
+                }  
+            }
+            if (currentValue<hardnessB1[0][12]) {
+                    computeValues2(0);
+                }
+            break;
+            
+        case "hvB2":
+            for (let i=0; currentValue>=hardnessB2[i][0] && !(i>0 && hardnessB2[i-1][0]>0 && hardnessB2[i][0]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][0] === null && (hardnessB2[i+2][0] >= hardnessB2[i+1][0])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }            
+            }
+            if (currentValue<hardnessB2[0][0]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hbwB2":
+            for (let i=0; currentValue>=hardnessB2[i][1] && !(i>0 && hardnessB2[i-1][1]>0 && hardnessB2[i][1]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][1] === null && (hardnessB2[i+2][1] >= hardnessB2[i+1][1])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][1]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hrcB2":
+            for (let i=0; currentValue>=hardnessB2[i][2] && !(i>0 && hardnessB2[i-1][2]>0 && hardnessB2[i][2]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][2] === null && (hardnessB2[i+2][2] >= hardnessB2[i+1][2])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][2]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hraB2":
+            for (let i=0; currentValue>=hardnessB2[i][3] && !(i>0 && hardnessB2[i-1][3]>0 && hardnessB2[i][3]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][3] === null && (hardnessB2[i+2][3] >= hardnessB2[i+1][3])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][3]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr45NB2":
+            for (let i=0; currentValue>=hardnessB2[i][4] && !(i>0 && hardnessB2[i-1][4]>0 && hardnessB2[i][4]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][4] === null && (hardnessB2[i+2][4] >= hardnessB2[i+1][4])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][4]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr30NB2":
+            for (let i=0; currentValue>=hardnessB2[i][5] && !(i>0 && hardnessB2[i-1][5]>0 && hardnessB2[i][5]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][5] === null && (hardnessB2[i+2][5] >= hardnessB2[i+1][5])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][5]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr15NB2":
+            for (let i=0; currentValue>=hardnessB2[i][6] && !(i>0 && hardnessB2[i-1][6]>0 && hardnessB2[i][6]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][6] === null && (hardnessB2[i+2][6] >= hardnessB2[i+1][6])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][6]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hrbB2":
+            for (let i=0; currentValue>=hardnessB2[i][7] && !(i>0 && hardnessB2[i-1][7]>0 && hardnessB2[i][7]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][7] === null && (hardnessB2[i+2][7] >= hardnessB2[i+1][7])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][7]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hrfB2":
+            for (let i=0; currentValue>=hardnessB2[i][8] && !(i>0 && hardnessB2[i-1][8]>0 && hardnessB2[i][8]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][8] === null && (hardnessB2[i+2][8] >= hardnessB2[i+1][8])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][8]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr45TB2":
+            for (let i=0; currentValue>=hardnessB2[i][9] && !(i>0 && hardnessB2[i-1][9]>0 && hardnessB2[i][9]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][9] === null && (hardnessB2[i+2][9] >= hardnessB2[i+1][9])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][9]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr30TB2":
+            for (let i=0; currentValue>=hardnessB2[i][10] && !(i>0 && hardnessB2[i-1][10]>0 && hardnessB2[i][10]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][10] === null && (hardnessB2[i+2][10] >= hardnessB2[i+1][10])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][10]) {
+                    computeValues3(0);
+                }
+            break;
+        case "hr15TB2":
+            for (let i=0; currentValue>=hardnessB2[i][11] && !(i>0 && hardnessB2[i-1][11]>0 && hardnessB2[i][11]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][11] === null && (hardnessB2[i+2][11] >= hardnessB2[i+1][11])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][11]) {
+                    computeValues3(0);
+                }
+            break;
+        case "tsB2":
+            for (let i=0; currentValue>=hardnessB2[i][12] && !(i>0 && hardnessB2[i-1][12]>0 && hardnessB2[i][12]===null)
+                    && i<hardnessB2.length; i++) {
+                if (hardnessB2[i][12] === null && (hardnessB2[i+2][12] >= hardnessB2[i+1][12])) {
+                    computeValues3(i+1);
+                } else {
+                    computeValues3(i);
+                }  
+            }
+            if (currentValue<hardnessB2[0][12]) {
+                    computeValues3(0);
+                }
+            break;
+            
+        case "hvB3":
+            for (let i=0; currentValue>=hardnessB3[i][0] && !(i>0 && hardnessB3[i-1][0]>0 && hardnessB3[i][0]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][0] === null && (hardnessB3[i+2][0] >= hardnessB3[i+1][0])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }            
+            }
+            if (currentValue<hardnessB3[0][0]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hbwB3":
+            for (let i=0; currentValue>=hardnessB3[i][1] && !(i>0 && hardnessB3[i-1][1]>0 && hardnessB3[i][1]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][1] === null && (hardnessB3[i+2][1] >= hardnessB3[i+1][1])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][1]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hrcB3":
+            for (let i=0; currentValue>=hardnessB3[i][2] && !(i>0 && hardnessB3[i-1][2]>0 && hardnessB3[i][2]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][2] === null && (hardnessB3[i+2][2] >= hardnessB3[i+1][2])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][2]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hraB3":
+            for (let i=0; currentValue>=hardnessB3[i][3] && !(i>0 && hardnessB3[i-1][3]>0 && hardnessB3[i][3]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][3] === null && (hardnessB3[i+2][3] >= hardnessB3[i+1][3])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][3]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hr45NB3":
+            for (let i=0; currentValue>=hardnessB3[i][4] && !(i>0 && hardnessB3[i-1][4]>0 && hardnessB3[i][4]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][4] === null && (hardnessB3[i+2][4] >= hardnessB3[i+1][4])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][4]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hr30NB3":
+            for (let i=0; currentValue>=hardnessB3[i][5] && !(i>0 && hardnessB3[i-1][5]>0 && hardnessB3[i][5]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][5] === null && (hardnessB3[i+2][5] >= hardnessB3[i+1][5])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][5]) {
+                    computeValues4(0);
+                }
+            break;
+        case "hr15NB3":
+            for (let i=0; currentValue>=hardnessB3[i][6] && !(i>0 && hardnessB3[i-1][6]>0 && hardnessB3[i][6]===null)
+                    && i<hardnessB3.length; i++) {
+                if (hardnessB3[i][6] === null && (hardnessB3[i+2][6] >= hardnessB3[i+1][6])) {
+                    computeValues4(i+1);
+                } else {
+                    computeValues4(i);
+                }  
+            }
+            if (currentValue<hardnessB3[0][6]) {
+                    computeValues4(0);
+                }
+            break;
+            
+        case "hvC":
+            for (let i=0; currentValue>=hardnessC[i][0] && !(i>0 && hardnessC[i-1][0]>0 && hardnessC[i][0]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][0] === null && (hardnessC[i+2][0] >= hardnessC[i+1][0])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }            
+            }
+            if (currentValue<hardnessC[0][0]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hv5C":
+            for (let i=0; currentValue>=hardnessC[i][1] && !(i>0 && hardnessC[i-1][1]>0 && hardnessC[i][1]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][1] === null && (hardnessC[i+2][1] >= hardnessC[i+1][1])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }            
+            }
+            if (currentValue<hardnessC[0][1]) {
+                    computeValues5(0);
+                }
+            break;    
+        case "hbC":
+            for (let i=0; currentValue>=hardnessC[i][2] && !(i>0 && hardnessC[i-1][2]>0 && hardnessC[i][2]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][2] === null && (hardnessC[i+2][2] >= hardnessC[i+1][2])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][2]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hrcC":
+            for (let i=0; currentValue>=hardnessC[i][3] && !(i>0 && hardnessC[i-1][3]>0 && hardnessC[i][3]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][3] === null && (hardnessC[i+2][3] >= hardnessC[i+1][3])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][3]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hraC":
+            for (let i=0; currentValue>=hardnessC[i][4] && !(i>0 && hardnessC[i-1][4]>0 && hardnessC[i][4]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][4] === null && (hardnessC[i+2][4] >= hardnessC[i+1][4])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][4]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr45NC":
+            for (let i=0; currentValue>=hardnessC[i][5] && !(i>0 && hardnessC[i-1][5]>0 && hardnessC[i][5]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][5] === null && (hardnessC[i+2][5] >= hardnessC[i+1][5])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][5]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr30NC":
+            for (let i=0; currentValue>=hardnessC[i][6] && !(i>0 && hardnessC[i-1][6]>0 && hardnessC[i][6]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][6] === null && (hardnessC[i+2][6] >= hardnessC[i+1][6])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][6]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr15NC":
+            for (let i=0; currentValue>=hardnessC[i][7] && !(i>0 && hardnessC[i-1][7]>0 && hardnessC[i][7]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][7] === null && (hardnessC[i+2][7] >= hardnessC[i+1][7])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][7]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hrbC":
+            for (let i=0; currentValue>=hardnessC[i][8] && !(i>0 && hardnessC[i-1][8]>0 && hardnessC[i][8]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][8] === null && (hardnessC[i+2][8] >= hardnessC[i+1][8])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][8]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hrfC":
+            for (let i=0; currentValue>=hardnessC[i][9] && !(i>0 && hardnessC[i-1][9]>0 && hardnessC[i][9]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][9] === null && (hardnessC[i+2][9] >= hardnessC[i+1][9])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][9]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr45TC":
+            for (let i=0; currentValue>=hardnessC[i][10] && !(i>0 && hardnessC[i-1][10]>0 && hardnessC[i][10]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][10] === null && (hardnessC[i+2][10] >= hardnessC[i+1][10])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][10]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr30TC":
+            for (let i=0; currentValue>=hardnessC[i][11] && !(i>0 && hardnessC[i-1][11]>0 && hardnessC[i][11]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][11] === null && (hardnessC[i+2][11] >= hardnessC[i+1][11])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][11]) {
+                    computeValues5(0);
+                }
+            break;
+        case "hr15TC":
+            for (let i=0; currentValue>=hardnessC[i][12] && !(i>0 && hardnessC[i-1][12]>0 && hardnessC[i][12]===null)
+                    && i<hardnessC.length; i++) {
+                if (hardnessC[i][12] === null && (hardnessC[i+2][12] >= hardnessC[i+1][12])) {
+                    computeValues5(i+1);
+                } else {
+                    computeValues5(i);
+                }  
+            }
+            if (currentValue<hardnessC[0][12]) {
+                    computeValues5(0);
+                }
+            break;
+        
+        case "hvD":
+            for (let i=0; currentValue>=hardnessD[i][0] && !(i>0 && hardnessD[i-1][0]>0 && hardnessD[i][0]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][0] === null && (hardnessD[i+2][0] >= hardnessD[i+1][0])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }            
+            }
+            if (currentValue<hardnessD[0][0]) {
+                    computeValues6(0);
+                }
+            break;
+        case "hrcD":
+            for (let i=0; currentValue>=hardnessD[i][1] && !(i>0 && hardnessD[i-1][1]>0 && hardnessD[i][1]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][1] === null && (hardnessD[i+2][1] >= hardnessD[i+1][1])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }  
+            }
+            if (currentValue<hardnessD[0][1]) {
+                    computeValues6(0);
+                }
+            break;
+        case "hraD":
+            for (let i=0; currentValue>=hardnessD[i][2] && !(i>0 && hardnessD[i-1][2]>0 && hardnessD[i][2]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][2] === null && (hardnessD[i+2][2] >= hardnessD[i+1][2])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }  
+            }
+            if (currentValue<hardnessD[0][2]) {
+                    computeValues6(0);
+                }
+            break;
+        case "hr45ND":
+            for (let i=0; currentValue>=hardnessD[i][3] && !(i>0 && hardnessD[i-1][3]>0 && hardnessD[i][3]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][3] === null && (hardnessD[i+2][3] >= hardnessD[i+1][3])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }  
+            }
+            if (currentValue<hardnessD[0][3]) {
+                    computeValues6(0);
+                }
+            break;
+        case "hr30ND":
+            for (let i=0; currentValue>=hardnessD[i][4] && !(i>0 && hardnessD[i-1][4]>0 && hardnessD[i][4]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][4] === null && (hardnessD[i+2][4] >= hardnessD[i+1][4])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }  
+            }
+            if (currentValue<hardnessD[0][4]) {
+                    computeValues6(0);
+                }
+            break;
+        case "hr15ND":
+            for (let i=0; currentValue>=hardnessD[i][5] && !(i>0 && hardnessD[i-1][5]>0 && hardnessD[i][5]===null)
+                    && i<hardnessD.length; i++) {
+                if (hardnessD[i][5] === null && (hardnessD[i+2][5] >= hardnessD[i+1][5])) {
+                    computeValues6(i+1);
+                } else {
+                    computeValues6(i);
+                }  
+            }
+            if (currentValue<hardnessD[0][5]) {
+                    computeValues6(0);
+                }
+            break;
+        default:
+            break;
+    }    
+}   
+

@@ -8,10 +8,7 @@
 
 html {
    text-align: center;
-   background-color: black;
-   height: 100%;   
-   place-items: center;
-   justify-content: center;
+   background-color: #ffffff;   
 }
 
 body {
@@ -22,14 +19,16 @@ body {
 
 .field1 {
     max-width: 70rem;
+    /*position: absolute;
+    top: 0px;
+    left: 0px;*/
     border-right: 2px solid #111; 
 }
 
 #org {
-    position: relative;
-    width: 10rem;
-    padding-top: 5px;
-    margin-left: 15px;
+    position: absolute;
+    top: 5px;
+    left: 15px;
     border-bottom: 4px solid lightgray;
     border-bottom-style: groove;
     color: lightgray;
@@ -41,22 +40,22 @@ header {
         #777,
         #ccc,
         #777
-      ); 
-    height: 120px;
+      );   
 }
 
 #heading {
     font-family: 'Arial Narrow', sans-serif;
     font-size: 32px;
     font-weight: 700;
-    margin-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     color: darkblue;
 }
 
 .logoOrg {
     font-family: wester, 'sans-serif';
     font-style: italic;
-    font-size: 28px;
+    font-size: 42px;
     font-weight: 300;
     padding-right: 5px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
@@ -243,6 +242,7 @@ input:hover {
     width: 93%;
     color: #555;
     padding: 10px;
+    /*border-bottom: 3px solid #aaa;*/
 }
 
 #footer{
@@ -259,15 +259,20 @@ input:hover {
 }
 
 #orgF{
-    margin: auto auto auto 0px;    
+    margin: auto auto auto 0px;
+    /*border-bottom: 4px solid lightgray;
+    border-bottom-style: groove;*/
     color: lightgray;
 }
 
 #email{
-    font-size: 22px;
-    margin: auto 0px auto auto;
-    /*margin-right: 0px;*/
-    color: #eee;
+    font-size: 28px;
+    margin: auto 100px auto auto;
+    color: darkblue;
+}
+
+.ads1{
+    /*height: 27rem;*/
 }
 
 .field2{
@@ -306,6 +311,10 @@ li{
     background-color: white;
 }
 
+.myAds{
+    /*border-bottom: 1px solid #aaa;*/
+}
+
 .field2Header{
     padding: 10px 0;
     color: darkblue;
@@ -332,7 +341,7 @@ li{
     text-align: justify;
 }
 
-.producerLink:hover {
+.producerLink:hover, .producerInfo:hover{
     background-color: #559;
     color: white;
 }
@@ -355,24 +364,15 @@ li{
    margin-top: 20px;
 }
 
-#visits {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    font-size: 12px;
-    background-color: #eee;
-    color: #aaa;
-}
-
 @media(min-width: 1300px) {
     .field2{
         display: block;
         max-width: 500px;
-        flex-direction: column;
+        flex-direction: column;          
+        /*border-left: 2px solid #999;*/
     }
     body{
         border: 2px solid #999;
-        max-width: 1500px;
     }
     #chead1row1, #chead1row2, .a1 {
     font-size: 16px;
@@ -381,10 +381,10 @@ li{
     font-size: 42px;
     }
     .logoOrg {
-        font-size: 28px;
+        font-size: 48px;
     }
     .nameOrg {
-        font-size: 28px;
+        font-size: 32px;
     }
     .convertorName {
     font-size: 22px;
