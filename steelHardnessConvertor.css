@@ -19,9 +19,6 @@ body {
 
 .field1 {
     max-width: 70rem;
-    /*position: absolute;
-    top: 0px;
-    left: 0px;*/
     border-right: 2px solid #111; 
 }
 
@@ -40,7 +37,8 @@ header {
         #777,
         #ccc,
         #777
-      );   
+      ); 
+    height: 120px;
 }
 
 #heading {
@@ -48,14 +46,13 @@ header {
     font-size: 32px;
     font-weight: 700;
     padding-top: 40px;
-    padding-bottom: 40px;
     color: darkblue;
 }
 
 .logoOrg {
     font-family: wester, 'sans-serif';
     font-style: italic;
-    font-size: 42px;
+    font-size: 28px;
     font-weight: 300;
     padding-right: 5px;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
@@ -242,7 +239,6 @@ input:hover {
     width: 93%;
     color: #555;
     padding: 10px;
-    /*border-bottom: 3px solid #aaa;*/
 }
 
 #footer{
@@ -259,20 +255,14 @@ input:hover {
 }
 
 #orgF{
-    margin: auto auto auto 0px;
-    /*border-bottom: 4px solid lightgray;
-    border-bottom-style: groove;*/
+    margin: auto auto auto 0px;    
     color: lightgray;
 }
 
 #email{
-    font-size: 28px;
-    margin: auto 100px auto auto;
-    color: darkblue;
-}
-
-.ads1{
-    /*height: 27rem;*/
+    font-size: 22px;
+    margin: auto 0px auto auto;
+    color: #eee;
 }
 
 .field2{
@@ -309,10 +299,6 @@ li{
     color: darkblue;
     font-weight: 900;
     background-color: white;
-}
-
-.myAds{
-    /*border-bottom: 1px solid #aaa;*/
 }
 
 .field2Header{
@@ -364,12 +350,20 @@ li{
    margin-top: 20px;
 }
 
+#visits {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    background-color: #eee;
+    color: #aaa;
+}
+
 @media(min-width: 1300px) {
     .field2{
         display: block;
         max-width: 500px;
-        flex-direction: column;          
-        /*border-left: 2px solid #999;*/
+        flex-direction: column;
     }
     body{
         border: 2px solid #999;
@@ -381,10 +375,10 @@ li{
     font-size: 42px;
     }
     .logoOrg {
-        font-size: 48px;
+        font-size: 28px;
     }
     .nameOrg {
-        font-size: 32px;
+        font-size: 28px;
     }
     .convertorName {
     font-size: 22px;
